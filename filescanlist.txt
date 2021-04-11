@@ -1,0 +1,1652 @@
+Offset(P)    #Ptr   #Hnd Access Name
+---------- ------ ------ ------ ----
+0x01deb6d0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01deb8b0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01dee618      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\bullet[1].gif
+0x01def788      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\jp2native.dll
+0x01df0780      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\jquery.pagination[1].js
+0x01df0818      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Desktop
+0x01df11c0      1      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\SoftwareDistribution\ReportingEvents.log
+0x01df1460      2      1 ------ \Device\Afd\Endpoint
+0x01df3f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shimgvw.dll
+0x01df4208      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\MTCORSVA.TTF
+0x01df4500      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01df4be0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\raavi.ttf
+0x01dfd1c0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\trebucbi.ttf
+0x01dfe5d8      2      1 RW-rw- \Device\NamedPipe\
+0x01e00968      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\verdanab.ttf
+0x01e15028      1      1 ------ \Device\NamedPipe\samr
+0x01e15518      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\ext\sunjce_provider.jar
+0x01e15968      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01e18ec8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Common Files\Adobe\Acrobat\ActiveX\pdfshell.dll
+0x01e1a790      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\ViewerPS.dll
+0x01e1a978      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\deploy\jqs\ie\jqs_plugin.dll
+0x01e1c740      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\verdana.ttf
+0x01e1c8a8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\c_28591.nls
+0x01e22260      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\browser.dll
+0x01e22820      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\History.IE5\index.dat
+0x01e23698      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\deploy.dll
+0x01e24238      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\comicbd.ttf
+0x01e25870      3      1 ------ \Device\Afd\Endpoint
+0x01e270e8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\snmpapi.dll
+0x01e2ae20      2      1 ------ \Device\Afd\Endpoint
+0x01e372a0      2      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\verdanai.ttf
+0x01e37af8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01e39990      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\drivers\etc\protocol
+0x01e3af90      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag
+0x01e3f070      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\msxml3.dll
+0x01e44350      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\usbui.dll
+0x01e44468      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01e44f90      2      1 ------ \Device\NamedPipe\wkssvc
+0x01e480e0      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\History\History.IE5\index.dat
+0x01e4a700      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\d3d9.dll
+0x01e4a798      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\d3d8thk.dll
+0x01e4ad30      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\tab_bg[1].gif
+0x01e4adc8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\notepad.exe
+0x01e4ae60      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\Microsoft\Crypto\RSA\S-1-5-21-343818398-920026266-854245398-1003\83aa4cc77f591dfc2374580bbd95f6ba_eddb8036-9007-4e8a-99e4-c53f6279f787
+0x01e4fc18      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01e504c8      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x01e55348      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Cookies\index.dat
+0x01e57e28      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\freebl3.dll
+0x01e58028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01e58718      1      0 R--r-d \Device\HarddiskVolume1\Program Files\LimeWire\lib\jdic.dll
+0x01e5a0a8      1      1 ------ \Device\NamedPipe\trkwks
+0x01e5a1f0      1      1 ------ \Device\NamedPipe\W32TIME
+0x01e5a468      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\navLeft[1].gif
+0x01e5e9c0      3      1 ------ \Device\Afd\Endpoint
+0x01e601c8      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\mail[4]
+0x01e61028      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\widget37[2].css
+0x01e61440      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\reflow.api
+0x01e619a8      3      0 RWD--- \Device\HarddiskVolume1\$ConvertToNonresident
+0x01e623f8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\jquery.cookie[1].js
+0x01e62578      3      1 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\mof
+0x01e628d0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\SaveAsRTF.api
+0x01e64bc0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01e65b98      1      1 R--r-- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\My Documents\Merkblatt_ameisen.pdf
+0x01e6c210      1      0 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Microsoft\Internet Explorer\MSIMGSIZ.DAT
+0x01e6c740      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cmd.exe
+0x01e6c910      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\sylfaen.ttf
+0x01e6cd18      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\3114[1].png
+0x01e6d0e0      2      1 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Resource\Font
+0x01e6d178      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\AGM.dll
+0x01e6d598      2      0 RWD--- \Device\HarddiskVolume1\$SetEndOfFileInfo
+0x01e6f128      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\k_16[1].png
+0x01e70dd0      2      1 ------ \Device\NamedPipe\lsass
+0x01e76e58      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01e771a0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\addyn_3[7]
+0x01e77798      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01e77830      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\times.ttf
+0x01e77b88      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msxml3r.dll
+0x01e77c88      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\lsans.ttf
+0x01e77d60      2      1 ------ \Device\Afd\Endpoint
+0x01e78400      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\Cache\_CACHE_003_
+0x01e784c8      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\promotion\promodb.lck
+0x01e7b5b0      2      2 ------ \Device\NamedPipe\Win32Pipes.00000fa8.00000002
+0x01e7da38      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nssckbi.dll
+0x01e7e178      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01e7e2b0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\DigSig.api
+0x01e7e578      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\WinSxS\Policies\x86_policy.6.0.Microsoft.Windows.Common-Controls_6595b64144ccf1df_x-ww_5ddad775\6.0.2600.5512.Policy
+0x01e7eaf8      1      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\ega.cpi
+0x01e7ee00      3      1 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\bittorrent_errors.log
+0x01e7f890      2      1 ------ \Device\NamedPipe\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x01e7fd90      3      1 ------ \Device\NamedPipe\net\NtControlPipe8
+0x01e7fe28      3      1 RW-r-- \Device\HarddiskVolume1\Documents and Settings\All Users\Application Data\Microsoft\Network\Downloader\qmgr1.dat
+0x01e80858      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01e83f90      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\jp2ssv.dll
+0x01e89200      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Office10\RICHED20.DLL
+0x01e893b0      2      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\My Documents\Merkblatt_ameisen.pdf
+0x01e8e858      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ipconfig.exe
+0x01e8f188      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\regutils.dll
+0x01e92ba0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\security\javaws.policy
+0x01e94290      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\Microsoft\SystemCertificates\My
+0x01e945c8      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\History.IE5\MSHist012010050520100506\index.dat
+0x01e94660      3      3 ------ \Device\NamedPipe\Win32Pipes.00000fa8.00000001
+0x01e94780      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@doubleclick[1].txt
+0x01e95a18      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\java.exe
+0x01e97ab8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Winamp\Winamp.ini
+0x01e97bd0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01e97f90      3      2 ------ \Device\Afd\Endpoint
+0x01e99028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\jscript.dll
+0x01e99140      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01e99df8      2      2 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Desktop
+0x01e9a380      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01e9b388      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01e9d028      1      1 RW-r-- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\Microsoft\Templates\Normal.dot
+0x01e9d140      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\BIB.dll
+0x01e9dd18      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\security\cacerts
+0x01e9e840      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01e9ea18      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\addyn_3[4]
+0x01ea4250      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\base_stylesIE_v2[1].css
+0x01ea45a8      2      1 ------ \Device\NamedPipe\trkwks
+0x01ea4750      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nssdbm3.dll
+0x01ea6028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01ea6f90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01eb1028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\SendMail.api
+0x01eb1278      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\places.sqlite
+0x01eb2028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01eb2658      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\rasadhlp.dll
+0x01eb27d8      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\My Documents
+0x01eb4880      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.5512_x-ww_dfb54e0c
+0x01eb5300      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\comic.ttf
+0x01eb5490      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\arialbd.ttf
+0x01eb5630      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\My Documents\desktop.ini
+0x01eb5808      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\georgia.ttf
+0x01eb5c58      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\arialbi.ttf
+0x01eb7cd8      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\fonts\LucidaSansRegular.ttf
+0x01eb8e80      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\ga[1].js
+0x01eb8f90      1      0 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\History.IE5\MSHist012010050520100506\index.dat
+0x01eb9510      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\timesbd.ttf
+0x01eb9c00      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\tahomabd.ttf
+0x01eba3c0      2      1 ------ \Device\Afd\Endpoint
+0x01ebc670      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@wt.raiffeisen[2].txt
+0x01ebcef8      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@tb.raiffeisendirect[1].txt
+0x01ebcf90      3      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\chrome\toolkit.jar
+0x01ebd6a8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\padlock[1].gif
+0x01ec01c0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\WinSxS\Manifests\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83.Manifest
+0x01ec0258      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\Cache\_CACHE_MAP_
+0x01ec06a0      1      1 ------ \Device\NamedPipe\lsass
+0x01ec0d50      2      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\promotion\promodb.lck
+0x01ec0e20      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\c[1].gif
+0x01ec1028      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\Cache\_CACHE_001_
+0x01ec10f8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\sunmscapi.dll
+0x01ec11e0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01ec1c98      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\ext\sunmscapi.jar
+0x01ec1d30      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\management.dll
+0x01ec1ef8      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\Cache\_CACHE_002_
+0x01ec6200      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\cookies.sqlite
+0x01ec6298      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\jce.jar
+0x01ec63c8      3      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\hnetcfg.dll
+0x01ec64f8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\sensapi.dll
+0x01ec6a18      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\palabi.ttf
+0x01ec6b48      3      1 ------ \Device\Afd\Endpoint
+0x01ec7538      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\jquery.url.packed[1].js
+0x01edb358      1      1 ------ \Device\Afd\Endpoint
+0x01edcf90      3      1 ------ \Device\Afd\Endpoint
+0x01edd5f8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01edea28      1      0 RW-rw- \Device\HarddiskVolume1\WINDOWS\0.log
+0x01eded18      1      1 ------ \Device\NamedPipe\net\NtControlPipe4
+0x01edf6d0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x01ef8700      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\zi\GMT
+0x01ef8d20      3      1 ------ \Device\NamedPipe\net\NtControlPipe5
+0x01ef9cd0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01efa5b0      1      1 ------ \Device\NamedPipe\net\NtControlPipe9
+0x01efb220      2      1 ------ \Device\NamedPipe\epmapper
+0x01efb320      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x01efb9d8      1      1 ------ \Device\NamedPipe\Ctx_WinStation_API_service
+0x01efba70      2      1 ------ \Device\NamedPipe\Ctx_WinStation_API_service
+0x01efd660      2      1 ------ \Device\NamedPipe\winlogonrpc
+0x01efdbd0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\BOOKOSI.TTF
+0x01efdf90      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\My Documents
+0x01efe168      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01efeb70      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\mail[1].&am=!Y_6TWUBke-eRZdzVEfQ0WuglnwA6guHkSAtSnrecXEHqVtsb&fri
+0x01eff4e0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01eff8f0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x01f00bd0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\close_box[1].gif
+0x01f00c68      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\show_ads[2].js
+0x01f00d00      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\mail[1]
+0x01f00f90      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\addyn_3[2]
+0x01f01510      1      1 ------ \Device\NamedPipe\net\NtControlPipe6
+0x01f01608      3      1 ------ \Device\NamedPipe\net\NtControlPipe0
+0x01f01b70      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dbghelp.dll
+0x01f01f90      1      1 R--r-d \Device\HarddiskVolume1\PROGRA~1\COMMON~1\MICROS~1\SMARTT~1\Lists\STOCKS.DAT
+0x01f024d0      1      1 ------ \Device\NamedPipe\net\NtControlPipe5
+0x01f031f8      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\History.IE5\index.dat
+0x01f04b50      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\BOOKOS.TTF
+0x01f04f90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01f0d390      1      1 ------ \Device\Afd\AsyncConnectHlp
+0x01f0e8a8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f0ef90      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\blank[1].gif
+0x01f10840      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f10b68      2      1 ------ \Device\NamedPipe\Winsock2\CatalogChangeListener-368-0
+0x01f10f90      2      1 ------ \Device\Afd\Endpoint
+0x01f11418      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f13a90      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\ext\meta-index
+0x01f17598      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01f17660      3      1 RWD--- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\places.sqlite-stmtjrnl
+0x01f17770      1      0 RWD--- \Device\HarddiskVolume1\$ConvertToNonresident
+0x01f17940      3      1 RW---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\places.sqlite-journal
+0x01f18f90      1      0 R--rwd \Device\HarddiskVolume1\PROGRA~1\COMMON~1\MICROS~1\SMARTT~1\Lists\STOCKS.DAT
+0x01f19028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01f19b68      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\ReadOutLoud.api
+0x01f1b7c8      3      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\chrome\classic.jar
+0x01f1c3d8      3      1 ------ \Device\NamedPipe\net\NtControlPipe4
+0x01f1e9e8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01f1f450      1      1 ------ \Device\Afd\Endpoint
+0x01f20f90      1      1 ------ \Device\NamedPipe\net\NtControlPipe0
+0x01f22180      2      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\config\AppEvent.Evt
+0x01f22330      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x01f22e18      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01f24dc0      2      1 ------ \Device\Afd\Endpoint
+0x01f2a4d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wsock32.dll
+0x01f2c288      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f2c470      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x01f2df90      1      0 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\LimeWire.exe
+0x01f2fb70      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\mail[2]
+0x01f30f90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01f31098      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\GARABD.TTF
+0x01f31810      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\ariblk.ttf
+0x01f31a48      2      2 ------ \Device\NamedPipe\Win32Pipes.00000fa8.00000001
+0x01f31c80      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\ARIALN.TTF
+0x01f32d18      2      1 ------ \Device\Afd\Endpoint
+0x01f33e70      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Favorites\Desktop.ini
+0x01f342d8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\pic_message_e[1].gif
+0x01f34ac8      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\permissions.sqlite
+0x01f34df0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shdoclc.dll
+0x01f36b78      1      1 ------ \Device\Afd\Endpoint
+0x01f37d18      3      1 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\promotion\promodb.log
+0x01f3aa48      2      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\index.dat
+0x01f3d028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\MakeAccessible.api
+0x01f3d978      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\EScript.api
+0x01f3da10      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\EWH32.api
+0x01f3dc10      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f3de60      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\HLS.api
+0x01f3def8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\IA32.api
+0x01f3df90      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\ImageViewer.API
+0x01f3f028      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\Microsoft\Templates\Normal.dot
+0x01f3f228      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Multimedia.api
+0x01f3f2c0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\PDDom.api
+0x01f3f478      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\weblink.api
+0x01f3f510      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\AcroRd32.dll
+0x01f3f5a8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01f3f770      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f3f808      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f3f8a0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01f3f938      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\openhand[1].cur
+0x01f410f8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\java.exe
+0x01f412f8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f41688      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\kartika.ttf
+0x01f42070      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\desktop.ini
+0x01f43700      1      1 ------ \Device\Afd\Endpoint
+0x01f439d8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\eBook.api
+0x01f46d60      3      1 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\drivers\etc
+0x01f47738      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f48a08      3      1 ------ \Device\Afd\Endpoint
+0x01f48aa8      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\ANTQUAB.TTF
+0x01f48b40      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\WINGDNG3.TTF
+0x01f49f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\imgutil.dll
+0x01f4b8c0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f4bd28      1      1 ------ \Device\Afd\Endpoint
+0x01f4cd20      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x01f4e028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f4edc0      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\INDEX.BTR
+0x01f4ef90      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\OBJECTS.MAP
+0x01f519d8      1      1 R--r-- \Device\HarddiskVolume1\Program Files\Messenger\msmsgs.exe
+0x01f51b68      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f52e28      3      1 R--rwd \Device\HarddiskVolume1\WINDOWS\pchealth\helpctr\BATCH
+0x01f52ef8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Offline Web Pages\desktop.ini
+0x01f52f90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\QuickTime\QTPlugin.ocx
+0x01f534d0      1      1 ------ \Device\Afd\Endpoint
+0x01f54938      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\System\ado
+0x01f549d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\inetmib1.dll
+0x01f55308      3      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x01f58c50      1      1 ------ \Device\NamedPipe\winlogonrpc
+0x01f5c9d8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vbscript.dll
+0x01f5db40      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f5f028      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat.LOG
+0x01f601c8      2      1 RW---- \Device\HarddiskVolume1\hiberfil.sys
+0x01f61028      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\LocalService\ntuser.dat.LOG
+0x01f61d60      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\inf
+0x01f61df8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\System\Ole DB
+0x01f61f90      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat.LOG
+0x01f62708      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\Ad2801010St1Sz16Sq3766140V0Id1[1].gif
+0x01f63648      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\M9636DWJ
+0x01f651e8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\040b
+0x01f65280      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0408
+0x01f65318      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0407
+0x01f67320      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f67748      1      1 ------ \Device\Afd\Endpoint
+0x01f68878      3      1 R--r-- \Device\HarddiskVolume1\PROGRA~1\COMMON~1\MICROS~1\SMARTT~1\FNAME.DLL
+0x01f68d18      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01f696a8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\rc[1].gif
+0x01f69740      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wucltui.dll.mui
+0x01f699a8      3      1 ------ \Device\Afd\Endpoint
+0x01f69b30      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\deploy.dll
+0x01f6af90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01f73a18      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f73b18      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01f743f0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Annots.api
+0x01f75f90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01f76a90      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\rppl3260.dll
+0x01f76cc8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\vrinda.ttf
+0x01f77360      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msxml3.dll
+0x01f77648      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libgdk-win32-2.0-0.dll
+0x01f77868      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\cleardot[1].gif
+0x01f77a90      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Plugins\pnxr3260.dll
+0x01f77ca8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\GOTHICB.TTF
+0x01f77e98      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\linkinfo.dll
+0x01f78130      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\comsvcs.dll
+0x01f782c8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\drprov.dll
+0x01f7a130      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mtxclu.dll
+0x01f7a7c8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\SpeechEngines\Microsoft\Lexicon\1033
+0x01f7a860      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\IME\PINTLGNT
+0x01f7b3a0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\MSInfo
+0x01f7b438      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Internet Explorer\Connection Wizard
+0x01f7b790      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libpng12.dll
+0x01f7c1f0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\colbact.dll
+0x01f7c648      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\xul.dll
+0x01f7ce98      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\rpcl3260.dll
+0x01f7d028      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\MSSoap\Binaries
+0x01f7d158      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\MSSoap\Binaries\Resources\1033
+0x01f7d2a8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f7d368      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\js3250.dll
+0x01f7d7c8      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\ssl3.dll
+0x01f7dc28      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Update\rpup3260.dll
+0x01f7e028      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Microsoft Office\Office10\MSOHEV.DLL
+0x01f7e460      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\smime3.dll
+0x01f7e8d8      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nss3.dll
+0x01f7f028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f7fb90      2      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\WINGDNG2.TTF
+0x01f7fd20      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Real\RealPlayer\rpsd3260.dll
+0x01f80028      1      0 R--r-- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\Macromedia\Flash Player\macromedia.com\support\flashplayer\sys\settings.sol
+0x01f801e8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0401
+0x01f80280      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Windows NT\Accessories
+0x01f80318      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\wbem\xml
+0x01f80648      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\bittorrent.exe
+0x01f80a90      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\rpmn3260.dll
+0x01f80c90      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\GARA.TTF
+0x01f80eb8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\rprm3260.dll
+0x01f81028      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Help
+0x01f813d8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Real\RealPlayer\rpde3260.dll
+0x01f81c28      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS
+0x01f824b0      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\easyTooltip[1].js
+0x01f828f8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Real\RealPlayer\rpto3260.dll
+0x01f82b30      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\GOTHIC.TTF
+0x01f82d20      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Real\RealPlayer\rpsr3260.dll
+0x01f82ef8      1      1 ------ \Device\Afd\Endpoint
+0x01f83028      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime
+0x01f83158      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\srchasst
+0x01f832e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dssenh.dll
+0x01f83678      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\c_1250.nls
+0x01f83710      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\c_1251.nls
+0x01f83998      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\fontmanager.dll
+0x01f84570      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\_iocp.pyd
+0x01f84c28      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Real\RealPlayer\rpar3260.dll
+0x01f84f90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\cryptocme2.dll
+0x01f85eb8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\rpta3260.dll
+0x01f86328      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wscntfy.exe
+0x01f86510      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wuauclt.exe
+0x01f86cb0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\ncprov.dll
+0x01f873f0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libpangowin32-1.0-0.dll
+0x01f875d8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libgmodule-2.0-0.dll
+0x01f876d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netui0.dll
+0x01f877c0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libpango-1.0-0.dll
+0x01f87c78      1      1 ------ \Device\Afd\Endpoint
+0x01f880d0      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\software.LOG
+0x01f88170      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemcons.dll
+0x01f88720      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ssdpapi.dll
+0x01f88908      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\iconv.dll
+0x01f88cd8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libgthread-2.0-0.dll
+0x01f89140      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\upnp.dll
+0x01f89328      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemess.dll
+0x01f89510      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\_gtk.pyd
+0x01f898e0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\nio.dll
+0x01f8a140      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\perfdisk.dll
+0x01f8a3a0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f8a990      2      1 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Resource\CMap
+0x01f8b328      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\intl.dll
+0x01f8bc88      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libgobject-2.0-0.dll
+0x01f8c2d8      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x01f8c3f8      1      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\config\SecEvent.Evt
+0x01f8c490      1      1 ------ \Device\NamedPipe\SfcApi
+0x01f8c528      2      1 ------ \Device\NamedPipe\SfcApi
+0x01f8cd00      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libglib-2.0-0.dll
+0x01f8d6a8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\LimeWire\LimeWire.exe
+0x01f8d870      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\dllcache
+0x01f8dca0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\Setup
+0x01f8e140      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\_zope_interface_coptimizations.pyd
+0x01f8e4e8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01f8e848      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0009
+0x01f8e8e0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imkr6_1\dicts
+0x01f8f028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\xpsp2res.dll
+0x01f8f148      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\wmisvc.dll
+0x01f8f358      1      1 ------ \Device\Afd\Endpoint
+0x01f8f5c0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\usmt
+0x01f8f658      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\admisapi\scripts
+0x01f8f7a8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\admcgi\scripts
+0x01f8f840      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\1033
+0x01f8f990      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\System
+0x01f8fa28      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Windows NT
+0x01f904a0      1      1 ------ \Device\NamedPipe\protected_storage
+0x01f90a58      1      1 -W-rw- \Device\HarddiskVolume1\WINDOWS\Debug\PASSWD.LOG
+0x01f91140      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\perfos.dll
+0x01f913f8      1      1 ------ \Device\NamedPipe\net\NtControlPipe2
+0x01f915e0      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\cert8.db
+0x01f917c8      5      1 RWDr-- \Device\HarddiskVolume1\System Volume Information\tracking.log
+0x01f91f90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rasdlg.dll
+0x01f92148      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wups2.dll
+0x01f92358      1      1 ------ \Device\NamedPipe\net\NtControlPipe1
+0x01f92560      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\client\jvm.dll
+0x01f92768      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Real\RealPlayer\pnmi3260.dll
+0x01f92950      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Update\setu3260.dll
+0x01f92b18      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\webclnt.dll
+0x01f92f58      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f932c8      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\softokn3.dll
+0x01f934b0      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nssutil3.dll
+0x01f93698      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\sqlite3.dll
+0x01f93880      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\plds4.dll
+0x01f93ab8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\zlib.pyd
+0x01f93cd0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x01f93e98      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ipnathlp.dll
+0x01f93f90      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Adobe\Acrobat\ActiveX\AcroIEHelper.dll
+0x01f94350      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\gobject.pyd
+0x01f948c0      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\default.LOG
+0x01f94ac8      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\plc4.dll
+0x01f94e98      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nspr4.dll
+0x01f96028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\atk.pyd
+0x01f96170      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x01f96cd8      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\javaxpcomglue.dll
+0x01f96e98      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\rppr3260.dll
+0x01f97758      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Triedit
+0x01f977f0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imjp8_1
+0x01f97ac8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libgtk-win32-2.0-0.dll
+0x01f97cb0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libgdk_pixbuf-2.0-0.dll
+0x01f98268      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msxml6.dll
+0x01f98300      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01f98460      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\inetpp.dll
+0x01f987a0      2      1 ------ \Device\NamedPipe\ntsvcs
+0x01f98a08      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\xircom
+0x01f98aa0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imkr6_1\applets
+0x01f98c60      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01f990d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\wow32.dll
+0x01f99170      3      1 ------ \Device\Afd\Endpoint
+0x01f993b0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Movie Maker
+0x01f99448      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Resources\Themes\Luna
+0x01f99518      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\default
+0x01f99818      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\PPKLite.api
+0x01f99968      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imjp8_1\applets
+0x01f99a00      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Internet Explorer
+0x01f99b10      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Update\upgr3260.dll
+0x01f9a308      2      1 RW--w- \Device\HarddiskVolume1\pagefile.sys
+0x01f9a8c0      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Start Menu
+0x01f9b5a0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\CHTIME\Applets
+0x01f9b890      3      1 ------ \Device\NamedPipe\net\NtControlPipe7
+0x01f9cca0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\IME\CINTLGNT
+0x01f9ce88      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\wbem
+0x01f9cf90      2      1 ------ \Device\Afd\Endpoint
+0x01f9d140      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Plugins\http3260.dll
+0x01f9d648      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\rpst3260.dll
+0x01f9df90      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x01f9eaf8      2      1 ------ \Device\NamedPipe\ntsvcs
+0x01f9ee58      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\SpeechEngines\Microsoft\TTS\1033
+0x01f9f808      1      1 ------ \Device\NamedPipe\Win32Pipes.00000138.00000001
+0x01fa0028      1      1 ------ \Device\Afd\Endpoint
+0x01fa0188      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History
+0x01fa03c0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x01fa05e8      2      1 R--rwd \Device\HarddiskVolume1\$Extend\$ObjId
+0x01fa0cd0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies
+0x01fa0f40      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01fa10d0      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY
+0x01fa1170      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\alg.exe
+0x01fa1400      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\shared
+0x01fa1498      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\imkr6_1
+0x01fa1578      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\Com
+0x01fa1938      3      1 ------ \Device\NamedPipe\net\NtControlPipe2
+0x01fa24a0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\MSN Gaming Zone\Windows
+0x01fa2c40      1      1 ------ \Device\NamedPipe\scerpc
+0x01fa3328      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01fa4350      2      1 ------ \Device\NamedPipe\scerpc
+0x01fa4468      1      1 R--r-- \Device\HarddiskVolume1\Program Files\Common Files\Adobe\Acrobat\ActiveX\AcroIEHelper.dll
+0x01fa4760      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x01fa4928      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\alrsvc.dll
+0x01fa4ae8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\es.dll
+0x01fa4e98      1      0 -W-r-- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\Macromedia\Flash Player\macromedia.com\support\flashplayer\sys\#mail.google.com\settings.sol
+0x01fa5328      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\pythoncom24.dll
+0x01fa5510      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\pywintypes24.dll
+0x01fa56f8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\win32api.pyd
+0x01fa58e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\xpob2res.dll
+0x01fa5ac8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\awt.dll
+0x01fa5cb0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\zip.dll
+0x01fa5e98      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\java.dll
+0x01fa6280      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\verify.dll
+0x01fa6468      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\hpi.dll
+0x01fa6650      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\msvcr71.dll
+0x01fa68c8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\c[1].gif
+0x01faaa20      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\mail[2]
+0x01fab358      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Search5.api
+0x01fac470      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msxml6.dll
+0x01fac700      1      0 R--rwd \Device\HarddiskVolume1\PROGRA~1\COMMON~1\MICROS~1\SMARTT~1\FNAME.DLL
+0x01facb68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msvfw32.dll
+0x01faceb8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Real\RealPlayer\rpprespn.dll
+0x01faead0      1      1 ------ \Device\NamedPipe\net\NtControlPipe7
+0x01fc46a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\clusapi.dll
+0x01fc72a0      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\INDEX.MAP
+0x01fc7338      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\MAPPING.VER
+0x01fc73d0      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\MAPPING2.MAP
+0x01fd4370      2      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\WINGDNG3.TTF
+0x01fd45e8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\wingding.ttf
+0x01fd9dc8      3      1 ------ \Device\Afd\Endpoint
+0x01fda028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\security\java.security
+0x01fda0f0      1      1 RW-rw- \Device\HarddiskVolume1\WINDOWS\WindowsUpdate.log
+0x01fdbab8      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@raiffeisen[2].txt
+0x01fdd8c0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x01fddb88      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x01fddd28      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\QF6ZM1VV
+0x01fdddc0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\3FRWEPHH
+0x01fddf90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02034950      1      0 RWD--- \Device\HarddiskVolume1\$ConvertToNonresident
+0x020e6140      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\oobe\msoobe.exe
+0x020f3150      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\drivers\disdn
+0x020f7500      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5
+0x020f7898      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files
+0x020f7930      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\History.IE5\MSHist012010042620100503
+0x020fb138      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\winxpgui.pyd
+0x020fc4f0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\verdanaz.ttf
+0x020fc590      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\bots\vinavbar
+0x020fc628      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\servsupp
+0x020ffe78      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02106028      1      1 RW-r-- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\My Documents\aut91657.doc
+0x02106ef0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x02108748      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x021087e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wucltui.dll
+0x0210a028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\nv4_disp.dll
+0x0210a298      2      1 ------ \Device\NamedPipe\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x0210ab00      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\shruti.ttf
+0x0210d028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dxtmsft.dll
+0x0210e308      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\navRight[1].gif
+0x0210e838      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x0210f028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02110390      1      1 ------ \Device\KSENUM#00000001\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x02111a88      1      1 ------ \Device\NamedPipe\EVENTLOG
+0x02111d18      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02113f90      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\AJEPCLWD
+0x02114808      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02115c98      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\content-types.properties
+0x02119630      3      2 ------ \Device\RawIp\255
+0x02119800      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\mfc71.dll
+0x021199a0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02119ab0      1      1 ------ \Device\KSENUM#00000001\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x02119c28      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\win32ui.pyd
+0x0211a6d8      3      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\javaxpcom.jar
+0x0211b0d8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0211b620      1      1 ------ \Device\NamedPipe\atsvc
+0x0211d958      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x0211db08      2      1 ------ \Device\Afd\Endpoint
+0x0211dc30      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\symbol.ttf
+0x0211dd90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x0211df90      1      1 ------ \Device\NamedPipe\srvsvc
+0x0211e0d0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0211fa78      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x02121dd8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02121e80      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021220d0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag
+0x02123380      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x02123538      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021235e0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02123a98      1      1 R--r-- \Device\HarddiskVolume1\Program Files\Messenger\msmsgs.exe
+0x021254a0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\NetMeeting
+0x021259e8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Spelling.api
+0x02128e10      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shdoclc.dll
+0x02129380      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\pchealth\helpctr\binaries
+0x0212be08      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0212c368      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Updater.api
+0x0212d4e8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\DVA.api
+0x0212d600      3      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\shdocvw.dll
+0x0212ff90      3      1 R--rw- \Device\Mailslot\Alerter
+0x02130028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x021327f0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\crossdomain[1].xml
+0x02132b30      1      1 RW-r-- \Device\HarddiskVolume1\Documents and Settings\All Users\Application Data\Microsoft\Network\Downloader\qmgr0.dat
+0x02133090      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02136028      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Mozilla\Firefox\Profiles
+0x02136f60      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\NetHood
+0x021379d8      1      1 ------ \Device\Afd\Endpoint
+0x02139298      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\p[1]
+0x02139800      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\ANTQUAI.TTF
+0x0213a2d8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\rc[1].gif
+0x0213daa0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0213f4b8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x0213fd00      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Winamp\winampa.exe
+0x021400d8      2      1 ------ \Device\NamedPipe\PCHFaultRepExecPipe
+0x02141230      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x02141348      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag
+0x02142450      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x021432a0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\jsse.jar
+0x02145028      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\swfobject[1].js
+0x02145b60      1      0 R--r-d \Device\HarddiskVolume1\Program Files\QuickTime\QTPlugin.ocx
+0x02146e00      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02147250      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\jquery.crypt[1].js
+0x02148028      2      1 ------ \Device\NamedPipe\DAV RPC SERVICE
+0x0214ae60      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0214aef8      1      1 ------ \Device\NamedPipe\net\NtControlPipe8
+0x0214af90      2      1 ------ \Device\NamedPipe\keysvc
+0x0214c028      1      1 ------ \Device\NamedPipe\DAV RPC SERVICE
+0x0214df90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021503e0      2      1 ------ \Device\NamedPipe\Winsock2\CatalogChangeListener-3bc-0
+0x02154320      1      1 ------ \Device\NamedPipe\winreg
+0x02155028      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ntlanman.dll
+0x02158028      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\My Documents
+0x02158650      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Microsoft Office\Office10\WINWORD.EXE
+0x0215a3d8      1      0 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x0215cc70      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\meta-index
+0x0215d728      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0215dc48     16      1 ------ \Device\Afd\Endpoint
+0x0215ff90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02161028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.5512_x-ww_dfb54e0c
+0x02162320      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag
+0x02164768      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\snmpapi.dll
+0x02164800      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\palai.ttf
+0x02168290      1      1 ------ \Device\NamedPipe\lsarpc
+0x02168a48      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Application Data\desktop.ini
+0x02169f90      1      1 ------ \Device\Afd\Endpoint
+0x02170440      3      1 ------ \Device\NamedPipe\net\NtControlPipe9
+0x021766a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\cnbjmon.dll
+0x02177058      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02179e98      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag
+0x0217af38      1      1 ------ \Device\Afd\Endpoint
+0x0217b130      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\qmgr.dll
+0x0217b258      2      1 ------ \Device\NamedPipe\winreg
+0x0217c3a0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb\msvcr80.dll
+0x0217d628      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\resutils.dll
+0x0217e1d8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\win32event.pyd
+0x0217fb20      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\index.dat
+0x0217fe00      1      1 ------ \Device\NamedPipe\wkssvc
+0x02180718      2      1 ------ \Device\Afd\Endpoint
+0x02180a90      1      1 ------ \Device\Afd\Endpoint
+0x02180de0      1      1 ------ \Device\Afd\Endpoint
+0x02181200      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Favorites\Links
+0x021824c0      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\regutils.dll
+0x02183028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\QuickTime\qttask.exe
+0x021833e0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\bg_horizontalNav[1].gif
+0x02183d20      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\border_silver[1].gif
+0x02184028      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\overlib[2].js
+0x021840c8      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@serving-sys[1].txt
+0x02184190      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02184718      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msprivs.dll
+0x02185a78      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\schannel.dll
+0x02185bd8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\atl.dll
+0x02185cd0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\smss.exe
+0x02185d70      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\adsldpc.dll
+0x021862a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\activeds.dll
+0x02186980      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mstlsapi.dll
+0x02187028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\fastprox.dll
+0x021872a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\icaapi.dll
+0x02187498      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\termsrv.dll
+0x02187688      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\lmhsvc.dll
+0x02187800      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dnsrslvr.dll
+0x02187c00      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\zlib1.dll
+0x02187c98      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dhcpcsvc.dll
+0x02187e68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rasadhlp.dll
+0x02188028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ctfmon.exe
+0x021881d8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\win32gui.pyd
+0x02188270      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winrnr.dll
+0x02188438      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wshtcpip.dll
+0x021885d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\hnetcfg.dll
+0x02189218      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mswsock.dll
+0x02189328      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\eventlog.dll
+0x02189420      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\vssapi.dll
+0x021894e0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\lib\gtk-2.0\2.4.0\loaders\libpixbufloader-png.dll
+0x02189578      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\xpsp2res.dll
+0x021896a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\trkwks.dll
+0x02189800      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rpcss.dll
+0x02189940      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041a
+0x021899d8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0418
+0x02189a70      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0402
+0x02189bc8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ntmarta.dll
+0x02189cd8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\svchost.exe
+0x02189de0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\scecli.dll
+0x0218a1d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wtsapi32.dll
+0x0218a4b0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winscard.dll
+0x0218a5e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\srsvc.dll
+0x0218a6e8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rsaenh.dll
+0x0218ac88      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wdigest.dll
+0x0218ad98      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\w32time.dll
+0x0218af20      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netlogon.dll
+0x0218b028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\pncrt.dll
+0x0218b308      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\iphlpapi.dll
+0x0218b420      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msv1_0.dll
+0x0218b528      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\kerberos.dll
+0x0218c2b8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0218e1c0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0218e268      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0218e7e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\esent.dll
+0x0218ec88      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dot3api.dll
+0x0218ef90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\qutil.dll
+0x021906b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\eapolqec.dll
+0x02190820      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netui1.dll
+0x02190e70      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wmi.dll
+0x02190f90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rtutils.dll
+0x02192170      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wzcsvc.dll
+0x02192ab0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02193028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mydocs.dll
+0x02194f90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02195460      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag
+0x02195f90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\duser.dll
+0x02196470      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\ACE.dll
+0x02196d18      1      1 ------ \Device\KSENUM#00000001\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x02197b60      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wuaueng.dll
+0x02198208      3      1 ------ \Device\NamedPipe\Win32Pipes.00000fa8.00000002
+0x02198b60      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@google[3].txt
+0x021991f0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\AppPatch
+0x0219bcd8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0219be78      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\isapi\_vti_adm
+0x0219c988      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS
+0x0219ca20      2      1 R--rw- \Device\HarddiskVolume1\Program Files\xerox\nwwia
+0x0219cab8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0427
+0x0219d028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Messenger\msmsgs.exe
+0x0219db48      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\dcpr.dll
+0x0219dec8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shgina.dll
+0x0219df90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\advapi32.dll
+0x0219e9a0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mscms.dll
+0x0219ea38      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\comres.dll
+0x0219ecd0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\clbcatq.dll
+0x0219ee50      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\system
+0x0219f268      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0219f8c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\irmon.dll
+0x0219fc90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\comdlg32.dll
+0x021a01f8      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\mktpBox_frameStyles[2].css
+0x021a03f0      2      0 RWD--- \Device\HarddiskVolume1\$SetEndOfFileInfo
+0x021a0b58      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021a1390      1      1 ------ \Device\Afd\Endpoint
+0x021a1548      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021a1650      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winspool.drv
+0x021a16e8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\AppPatch\acgenral.dll
+0x021a2028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Real\RealPlayer\rpap3260.dll
+0x021a2e58      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wlnotify.dll
+0x021a2ef0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winmm.dll
+0x021a2f90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dimsntfy.dll
+0x021a38b0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\cscdll.dll
+0x021a4028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\LimeWire\lib\SystemUtilities.dll
+0x021a43e8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\gdi32.dll
+0x021a5760      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msimg32.dll
+0x021a5d60      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rasman.dll
+0x021a5eb8      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\index.dat
+0x021a6470      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rasapi32.dll
+0x021a8770      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\c_1253.nls
+0x021a8bd0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Microsoft Office\Office10\1033\WWINTL.DLL
+0x021a8c68      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\CoolType.dll
+0x021a9758      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\SAM.LOG
+0x021a99e8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x021a9b68      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\jquery.flash[1].js
+0x021aee00      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\courbi.ttf
+0x021aeec0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\ANTQUABI.TTF
+0x021afb50      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x021b0470      3      1 ------ \Device\Afd\Endpoint
+0x021b16c0      3      1 ------ \Device\NamedPipe\net\NtControlPipe6
+0x021b19d0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021b1f00      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Desktop
+0x021b2610      1      1 ------ \Device\Afd\Endpoint
+0x021b2b70      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\promotion\promodb.data
+0x021b31e8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\VGX
+0x021b3280      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Help\Tours\mmTour
+0x021b3318      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\IME\TINTLGNT
+0x021b42a8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\ariali.ttf
+0x021b4418      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\mangal.ttf
+0x021b44f0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\win.ini
+0x021b4588      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\arial.ttf
+0x021b7158      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021b9ae0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\cabinet.dll
+0x021b9bb0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mprapi.dll
+0x021b9c80      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rastls.dll
+0x021ba5d8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\cour.ttf
+0x021ba7b8      2      1 ------ \Device\NamedPipe\srvsvc
+0x021ba850      1      1 ------ \Device\NamedPipe\srvsvc
+0x021bbe50      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\url.dll
+0x021bbf90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x021bc028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wsock32.dll
+0x021bd3f8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x021bd600      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\eappprxy.dll
+0x021bd6e8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\_ssl.pyd
+0x021bda28      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\isapi
+0x021bdac0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\bin\1033
+0x021be340      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\olesvr32.dll
+0x021bea48      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\olethk32.dll
+0x021bef90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\eappcfg.dll
+0x021bf150      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\spool\drivers\color
+0x021bf1e8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\PeerNet
+0x021bf280      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Speech\1033
+0x021bf3c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\onex.dll
+0x021c0028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\lib\gtk-2.0\2.4.0\engines\libwimp.dll
+0x021c0550      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\browselc.dll
+0x021c05e8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dot3dlg.dll
+0x021c0750      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\credui.dll
+0x021c0840      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netshell.dll
+0x021c0950      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netrap.dll
+0x021c0d40      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netman.dll
+0x021c1bd8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\l_10646.ttf
+0x021c2e58      3      1 ------ \Device\NamedPipe\net\NtControlPipe3
+0x021c4300      1      0 R--rwd \Device\HarddiskVolume1\RECYCLER\S-1-5-21-343818398-920026266-854245398-1003\desktop.ini
+0x021c4578      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\icon_comment[1].png
+0x021c4d30      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Internet Explorer\iexplore.exe
+0x021c5038      3      0 RWD--- \Device\HarddiskVolume1\$ConvertToNonresident
+0x021c5508      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021c55a8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\GOTHICBI.TTF
+0x021c56e8      3      0 RWD--- \Device\HarddiskVolume1\$ConvertToNonresident
+0x021c58c8      3      0 RWD--- \Device\HarddiskVolume1\$ConvertToNonresident
+0x021c61f0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\raschap.dll
+0x021c6f90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021c7028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ntshrui.dll
+0x021c7530      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wshirda.dll
+0x021c7638      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\CA1CFI7L.swf
+0x021c7768      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\tapi32.dll
+0x021c7820      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\win32spl.dll
+0x021c78b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\repdrvfs.dll
+0x021c7d18      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\wmiutils.dll
+0x021c8028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\pnrs3260.dll
+0x021c82a0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\CAWRMXEH.gif
+0x021c92c8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021c9430      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\spoolsv.exe
+0x021c9a90      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\W9QV4XQF
+0x021c9d70      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Mozilla\Firefox\Profiles\1gm4twd8.default
+0x021cb660      1      1 ------ \Device\Afd\Endpoint
+0x021cbf90      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\dcpr.dll
+0x021cff18      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msidle.dll
+0x021d0028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\pngu3260.dll
+0x021d0458      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\jawt.dll
+0x021d0500      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021d05a0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\libatk-1.0-0.dll
+0x021d0688      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\wmiprvsd.dll
+0x021d0828      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\schedsvc.dll
+0x021d09c0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dciman32.dll
+0x021d0ab8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\powrprof.dll
+0x021d0b78      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\cscui.dll
+0x021d0d80      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x021d1688      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wzcsapi.dll
+0x021d1810      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\themeui.dll
+0x021d18b8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Search.api
+0x021d2028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.5512_x-ww_dfb54e0c\GdiPlus.dll
+0x021d4028      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Outlook Express
+0x021d4158      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\oobe
+0x021d4228      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\baseStyles_v2[1].css
+0x021d45e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\browseui.dll
+0x021d4780      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\explorer.exe
+0x021d4868      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wkssvc.dll
+0x021d4940      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\spoolss.dll
+0x021d51c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\audiosrv.dll
+0x021d6450      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021d7468      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\npp
+0x021d7500      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\mui
+0x021d86c8      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\sh16[1].htm
+0x021d8760      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x021da208      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@www.tagesanzeiger[2].txt
+0x021da2d8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\vimages7[1].gif
+0x021da6e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\imagehlp.dll
+0x021da780      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\Restore
+0x021da818      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Windows NT\Pinball
+0x021da8b0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\shared\res
+0x021da9c0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\mail[2]
+0x021daad8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Resources\Themes\Luna\Shell\Homestead
+0x021dab70      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Resources\Themes\Luna\Shell\NormalColor
+0x021dac08      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Speech
+0x021dc538      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\jpeg.dll
+0x021dca30      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ole32.dll
+0x021dd028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\tcpmon.dll
+0x021de2d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\batmeter.dll
+0x021df380      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\browser.dll
+0x021df418      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021df748      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0412
+0x021df7e0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0411
+0x021df878      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0410
+0x021e0248      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\TA_styles_v2[1].css
+0x021e04a0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Resources\Themes\Luna\Shell\NormalColor\shellstyle.dll
+0x021e0f68      1      0 R--rwd \Device\HarddiskVolume1\PROGRA~1\MICROS~2\Office10\MCPS.DLL
+0x021e1228      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021e12c0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021e1650      2      1 RWDr-d \Device\HarddiskVolume1\DOCUME~1\PETERH~1\LOCALS~1\Temp\hsperfdata_Peter Haag\312
+0x021e16e8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\jquery.getUrlParam[1].js
+0x021e18b8      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\All Users\Start Menu
+0x021e1e78      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mshtmled.dll
+0x021e2028      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@tagesanzeiger[2].txt
+0x021e2160      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021e21f8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\MEMORY.DMP
+0x021e2400      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\greybtn[1].png
+0x021e2610      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\misc_article[2].js
+0x021e2818      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\x[1].gif
+0x021e2c28      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021e3408      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021e34a0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Favorites
+0x021e36a8      2      1 ------ \Device\NamedPipe\lsass
+0x021e39e8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021e3dc0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021e3e60      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\msxml6r.dll
+0x021e40b8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021e4150      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021e4878      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\services.exe
+0x021e4cb0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\lsass.exe
+0x021e4f28      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\imm32.dll
+0x021e5028      3      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\dxtrans.dll
+0x021e5220      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\_ctypes.pyd
+0x021e54b0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\regsvc.dll
+0x021e5748      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\esscli.dll
+0x021e58b0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\timesi.ttf
+0x021e59d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winhttp.dll
+0x021e5c58      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shfolder.dll
+0x021e6148      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\shell.pyd
+0x021e63e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemcore.dll
+0x021e6678      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wbem\wbemcomn.dll
+0x021e67e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\lsansd.ttf
+0x021e6b98      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\olecli32.dll
+0x021e6f90      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\georgiai.ttf
+0x021e7120      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\_socket.pyd
+0x021e7288      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\verdanai.ttf
+0x021e73b0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\srvsvc.dll
+0x021e7518      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\GARAIT.TTF
+0x021e7640      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\psbase.dll
+0x021e78b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msctf.dll
+0x021e7b38      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wshext.dll
+0x021e7dc0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\python24.dll
+0x021e7f28      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\tahomabd.ttf
+0x021e8250      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\pstorsvc.dll
+0x021e84e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winipsec.dll
+0x021e8770      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\oakley.dll
+0x021e88d8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\tahoma.ttf
+0x021e89f8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\msvcr71.dll
+0x021e8e08      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\ARIALNBI.TTF
+0x021e8f28      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Office10\MSO.DLL
+0x021e90d8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\georgiab.ttf
+0x021e9200      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ipsecsvc.dll
+0x021e9560      2      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\timesbi.ttf
+0x021e9950      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\deploy.jar
+0x021e9b48      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\WINGDNG2.TTF
+0x021e9dd8      3      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\dxtmsft.dll
+0x021e9f90      1      0 R--r-- \Device\HarddiskVolume1\Program Files\Internet Explorer\iexplore.exe
+0x021ea028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wscsvc.dll
+0x021ea228      1      1 ------ \Device\NamedPipe\Win32Pipes.00000138.00000003
+0x021ea6b0      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\jquery_ui.tabs[1].js
+0x021ea8d0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\CAYRCXM9.gif
+0x021eaac8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\addyn_3[8]
+0x021ead58      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\iepeers.dll
+0x021eaf28      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\lucon.ttf
+0x021eb558      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\ipconfig.exe
+0x021eb750      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\arialbd.ttf
+0x021eb9e0      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\HATTEN.TTF
+0x021ec0b0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\trebuc.ttf
+0x021ec340      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@help[1].txt
+0x021ec548      3      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\mvboli.ttf
+0x021ec7d8      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Favorites
+0x021ec9d0      2      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\timesi.ttf
+0x021ecc60      2      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\config\SysEvent.Evt
+0x021ed028      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\NTUSER.DAT
+0x021ed270      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netstat.exe
+0x021ee038      3      0 RWD--- \Device\HarddiskVolume1\$ConvertToNonresident
+0x021ef710      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021f03c8      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@dcs4hmi80wz5bdojwteluov31_9n7n[1].txt
+0x021f09f8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cryptnet.dll
+0x021f18f0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\dssenh.dll
+0x021f1ed8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\render_ads[2].js
+0x021f26b8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\conversion[2].js
+0x021f28b0      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@accounts[2].txt
+0x021f2e98      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\fontconfig.bfc
+0x021f30d8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021f3330      3      1 ------ \Device\Afd\Endpoint
+0x021f3730      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021f37c8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\gate_rf[1].php
+0x021f40e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msisip.dll
+0x021f4248      3      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\chrome\en-US.jar
+0x021f4440      2      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\iepeers.dll
+0x021f4638      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021f4860      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\History.IE5\index.dat
+0x021f4a78      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\index.dat
+0x021f4ca0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Desktop
+0x021f4eb0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021f5108      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021f5318      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021f5528      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x021f5b38      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\asfsipc.dll
+0x021f5f28      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\misc6[1].js
+0x021f71a0      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\downloads.sqlite
+0x021f78d0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021f7968      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\History.IE5\MSHist012010050520100506
+0x021f7cb8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021f7d50      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\History.IE5
+0x021f7f28      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\CAGLS7KR.swf
+0x021f81d8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\test_domain[2].js
+0x021f9028      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\icon_info[1].gif
+0x021f93d8      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\2L4TUFA5
+0x021f9470      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ncobjapi.dll
+0x021f98b0      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\p[1]
+0x021f9aa8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Desktop\LimeWire 5.1.3.lnk
+0x021f9ca0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\trend_-1[1].gif
+0x021f9e98      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\Microsoft\SystemCertificates\My
+0x021faf90      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\login_corners_sprite[1].png
+0x021fb290      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msvcp60.dll
+0x021fb6a0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Favorites
+0x021fb870      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\i386\jvm.cfg
+0x021fc160      1      0 R--r-- \Device\HarddiskVolume1\Documents and Settings\All Users\Application Data\Adobe\Updater5\AdobeESDGlobalApps.xml
+0x021fc488      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\pdh.dll
+0x021fc5f0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\ser_div[1].gif
+0x021fca20      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x021fd128      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\xpcom.dll
+0x021fd6e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\courbd.ttf
+0x021fddb8      2      1 ------ \Device\NamedPipe\atsvc
+0x021ff540      1      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\stdole2.tlb
+0x02201d58      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\apphelp.dll
+0x02201f90      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1273059701084[1]
+0x022021e0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\cmd.exe
+0x022023b0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\hea_div[1].gif
+0x02202940      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\addyn_3[6]
+0x02202c90      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\ARIALNI.TTF
+0x02203488      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@www.raiffeisen[1].txt
+0x02204248      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msls31.dll
+0x022042e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mshtml.dll
+0x02204f90      3      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\mozilla-profile\key3.db
+0x02206888      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\jusched.exe
+0x022069f0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\tahoma.ttf
+0x02206bc8      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\mail[1]
+0x02206d90      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\newsnetz_vg_original[2].js
+0x02207028      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\AdobeUpdater.dll
+0x022072d8      3      1 -W-r-- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Adobe\Updater5\aumLib.log
+0x022076c8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\drivers
+0x02207760      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts
+0x022078c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Tasks\desktop.ini
+0x02207d90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02208750      1      1 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Adobe\Acrobat\8.0\Updater\updater.log
+0x02208e80      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\tunga.ttf
+0x022094b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\scesrv.dll
+0x02209700      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\BKANT.TTF
+0x02209908      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\nio.dll
+0x02209d30      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\rc[2].gif
+0x0220b578      2      0 R----- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Adobe\Acrobat\8.0\Updater\updater.log
+0x0220b7c8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Proof\MSLID.DLL
+0x0220bdc8      3      1 R--r-- \Device\HarddiskVolume1\PROGRA~1\COMMON~1\MICROS~1\SMARTT~1\MOFL.DLL
+0x0220bf00      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\lib\pango\1.4.0\modules\pango-basic-win32.dll
+0x0220c650      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\mail[2]
+0x0220c888      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0220cb50      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0220d028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\ARIALNB.TTF
+0x0220da50      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\messages_de[1].js
+0x0220e250      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0220e2f0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\DAO
+0x0220e388      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS
+0x0220e968      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0220f848      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0220faf0      1      1 ------ \Device\Afd\Endpoint
+0x0220ff90      2      1 ------ \Device\NamedPipe\PIPE_EVENTROOT\CIMV2SCM EVENT PROVIDER
+0x02210220      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\jp2native.dll
+0x02210550      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022105e8      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\OBJECTS.DATA
+0x022107e0      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\system32\wbem\Repository\FS\MAPPING1.MAP
+0x02210b98      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02210d00      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\impact.ttf
+0x02210e28      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\seclogon.dll
+0x02210f90      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\georgiaz.ttf
+0x022111e0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\gautami.ttf
+0x02211948      2      1 RWDrwd \Device\HarddiskVolume1\DOCUME~1\PETERH~1\LOCALS~1\Temp\~DF50CB.tmp
+0x02211de0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\latha.ttf
+0x022120f0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\pala.ttf
+0x022129c8      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\aopalliance.jar
+0x02214a28      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\umpnpmgr.dll
+0x02214f90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022153c8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02215960      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02215b08      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msi.dll
+0x02216458      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\lsasrv.dll
+0x02217bf8      2      1 RWDrw- \Device\HarddiskVolume1\WINDOWS\Temp\Perflib_Perfdata_bc.dat
+0x02217df8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\Default_Size_16_1x1[1].gif
+0x02218120      2      1 RWDrwd \Device\HarddiskVolume1\DOCUME~1\PETERH~1\LOCALS~1\Temp\~DF4DC6.tmp
+0x02218450      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02218a70      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041b
+0x02218b08      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0419
+0x02218ba0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0416
+0x02218e38      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\040e
+0x02218ed0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\040D
+0x02218f68      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\040C
+0x02219028      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\fontmanager.dll
+0x02219150      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\desktop.ini
+0x02219470      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ntdsapi.dll
+0x022195d8      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Real\Plugins\ExtResources\core3260.xrs
+0x02219c40      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\framd.ttf
+0x02219e98      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\resources.jar
+0x0221a028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\OUTLOOK.TTF
+0x0221a668      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\addyn_3[2]
+0x0221a860      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\gate_rf[1].htm
+0x0221ae80      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\netstat.exe
+0x0221d110      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\net.dll
+0x0221d220      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\midimap.dll
+0x0221d7a8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\LimeWire\lib\SystemUtilities.dll
+0x0221de70      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\vga.dll
+0x0221e0c8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\pngfilt.dll
+0x0221e788      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\mshtmled.dll
+0x0221e9b0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\c[1].gif
+0x0221eeb0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dxtrans.dll
+0x0221f128      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\jquery.form[1].js
+0x0221f9b8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0221fc90      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\AT1217_994x118[1].gif
+0x02220028      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0413
+0x022200f0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0415
+0x02220188      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0414
+0x02220570      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\rss_icon_small[1].png
+0x02220798      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\1230[1].gif
+0x022209c0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\pic_invis[1].gif
+0x02220b90      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Microsoft Office\Office10\EXCEL.EXE
+0x022213e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dnsapi.dll
+0x02221770      2      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\stdole2.tlb
+0x02221890      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\pchealth\UploadLB\Binaries
+0x02221e98      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\blank[1].gif
+0x02222070      1      0 -W-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\mail[1].htm
+0x022222b0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022224b0      1      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\stdole2.tlb
+0x02222878      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\awt.dll
+0x022233f0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\icon_bildstrecken[1].png
+0x02223898      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\additional_resources.jar
+0x02223aa0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jacob-1.14.1.jar
+0x02223cb0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\iTunes-0.0.1.jar
+0x02223eb0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\vorbisspi.jar
+0x02224028      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\onion-common.jar
+0x02224160      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\tritonus.jar
+0x02224330      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\swingx-0.9.4.jar
+0x02224538      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\swing-worker-1.1.jar
+0x02224780      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\smackx.jar
+0x02224988      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\smackx-debug.jar
+0x02224c48      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\smack.jar
+0x02224e60      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\onion-fec.jar
+0x02225028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\samlib.dll
+0x02225288      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\mp3spi.jar
+0x02225760      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\mozswing.jar
+0x02225a18      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\mozdom4java.jar
+0x02225d48      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\miglayout.jar
+0x02225f28      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jdic_stub.jar
+0x02226028      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jdic.jar
+0x022261c0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jxlayer.jar
+0x022263c8      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jorbis.jar
+0x022265c8      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jogg.jar
+0x02226890      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jna.jar
+0x02226a90      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jmdns.jar
+0x02226ca0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jl.jar
+0x02226eb0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jflac.jar
+0x02227258      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jcraft.jar
+0x02227450      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jcip-annotations.jar
+0x022276b0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\jaudiotagger.jar
+0x022277d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\usbmon.dll
+0x02227968      1      1 ------ \Device\Afd\AsyncConnectHlp
+0x02227ae0      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\SAM
+0x02227c48      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\icu4j.jar
+0x02227e18      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\httpcore-nio-4.0-beta2.jar
+0x02228f28      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\hsqldb.jar
+0x02229148      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\httpcore-4.0-beta2.jar
+0x02229530      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\httpclient-4.0-beta1.jar
+0x02229698      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\guice-snapshot.jar
+0x02229868      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\guice-assistedinject-snapshot.jar
+0x02229f90      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\glazedlists-1.7.0_java15.jar
+0x0222a210      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\gettext-commons.jar
+0x0222de00      3      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\mshtml.tlb
+0x0222def8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\System\msadc
+0x0222df90      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Windows Media Player
+0x0222f0a0      3      1 RW-r-- \Device\HarddiskVolume1\WINDOWS\SchedLgU.Txt
+0x0222f228      3      1 R--rwd \Device\HarddiskVolume1\WINDOWS\Tasks
+0x0222f510      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\_vti_bin
+0x0222f5a8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\microsoft frontpage\version3.0\bin
+0x0222f840      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0222ff90      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\grippy[1].gif
+0x02231240      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0C0A
+0x022312d8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0816
+0x02231370      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0804
+0x022342a8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02234800      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022378a0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\border_blue[1].gif
+0x022391e8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0406
+0x02239280      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0405
+0x02239318      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0404
+0x02239ad0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\msagent
+0x02239b68      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system
+0x0223a9a8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\logging.properties
+0x0223aa40      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\javaws.jar
+0x0223af50      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\certificate\limewire.keystore
+0x0223ba30      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\plugin.jar
+0x0223c0a0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag
+0x0223c7b8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0223e280      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x0223e318      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\msagent\intl
+0x0223e6a8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0223e818      1      1 ------ \Device\NamedPipe\epmapper
+0x0223ec08      1      1 ------ \Device\NamedPipe\spoolss
+0x0223f760      1      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\iepeers.dll
+0x02241e60      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0424
+0x02241ef8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041f
+0x02241f90      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041D
+0x02242230      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Checkers.api
+0x02246bb8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022483b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\csrss.exe
+0x02248b80      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\arialbd.ttf
+0x02248e38      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\img_no2[1].png
+0x0224ac38      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\lsansi.ttf
+0x0224b028      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\jquery.validate.min[1].js
+0x0224b210      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Real\Common\pnen3260.dll
+0x0224b450      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\Office10\1033\MSOINTL.DLL
+0x0224b668      3      1 R--r-- \Device\HarddiskVolume1\Program Files\Messenger\msmsgs.exe
+0x0224b838      1      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire
+0x0224ba10      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\dbghelp.dll
+0x0224c668      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0224cd78      2      1 ------ \Device\Afd\Endpoint
+0x0224d108      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\actxprxy.dll
+0x0224df90      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\icon_dossier[1].png
+0x0224e200      1      1 R--rw- \Device\HarddiskVolume1\Program Files\BitTorrent
+0x0224e530      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0224eb28      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0224ebc0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\navFullScreen[1].gif
+0x0224f028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\asfsipc.dll
+0x0224f160      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\TA_stylesIE_v2[1].css
+0x0224f330      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\jquery.cycle.all[2].js
+0x0224f900      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0224f998      1      0 R--rwd \Device\HarddiskVolume1\PROGRA~1\MICROS~2\Office10\MCPS.DLL
+0x0224fbe0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wshext.dll
+0x02250460      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02251810      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02251e70      2      1 ------ \Device\NamedPipe\PCHHangRepExecPipe
+0x02252128      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mspatcha.dll
+0x022529e8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\bg_mktpBox_gradient[1].png
+0x022530d0      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\system.LOG
+0x02253170      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ssdpsrv.dll
+0x02253708      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02253aa8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02253b40      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022542e0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02254878      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02254ba8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02254c40      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@bs.serving-sys[1].txt
+0x02254f90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02255260      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\3582[1].jpg
+0x02255c90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02256558      2      1 ------ \Device\NTPNP_PCI0007\Topology
+0x02256750      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\tzmappings
+0x02256cf0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\vbscript.dll
+0x02257028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\lsansdi.ttf
+0x022571d0      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@addthis[2].txt
+0x022573d0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\ZCWCOL6D
+0x022574d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\samsrv.dll
+0x02257638      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\ajax[1].js
+0x02257c30      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\drivers\etc\services
+0x022583a0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Downloaded Program Files\desktop.ini
+0x02258b58      2      1 ------ \Device\NamedPipe\lsass
+0x02258bf0      1      1 ------ \Device\NamedPipe\keysvc
+0x022596a8      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\slrundll.exe
+0x02259938      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\pstorec.dll
+0x02259b30      2      1 ------ \Device\Afd\Endpoint
+0x02259d28      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\addyn_3[2]
+0x0225a278      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0225a508      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\RVPAU08Y
+0x0225a700      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x0225aec0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\imm32.dll
+0x0225b158      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msctf.dll
+0x0225b708      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0225b9a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\icm32.dll
+0x0225bb10      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\framdit.ttf
+0x0225f510      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\Ad5112186St1Sz16Sq4171287V0Id1[1].gif
+0x0225f900      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Desktop
+0x0225fad0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\CAKH2BAR.htm
+0x0225fd50      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\_vti_bin\_vti_adm
+0x022606d8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ddraw.dll
+0x02260f90      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022611d0      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\ddrawex.dll
+0x02261c00      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\timesbi.ttf
+0x02261dd0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\arial.ttf
+0x022620a0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wzcsapi.dll
+0x022622c0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\eappprxy.dll
+0x02262500      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\eappcfg.dll
+0x02262750      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\onex.dll
+0x02262978      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dot3dlg.dll
+0x02262b88      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\credui.dll
+0x02262d58      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netshell.dll
+0x02263f28      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x022640e8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netman.dll
+0x02264880      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\tapi32.dll
+0x02264a50      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rasman.dll
+0x02264c70      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rasapi32.dll
+0x02264ea8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mprapi.dll
+0x02265488      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x022657c0      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0x022665c0      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1273059695656[1]
+0x022667e0      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\CAM3W7XE.swf
+0x022669b0      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@wemfbox[1].txt
+0x02266ca0      1      0 RWDr-d \Device\HarddiskVolume1\DOCUME~1\PETERH~1\LOCALS~1\Temp\hsperfdata_Peter Haag\3268
+0x02267230      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winspool.drv
+0x022678d8      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\CAKH2BAR.htm
+0x02268038      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02268230      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\loadAjaxContent[2].js
+0x02268750      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\micross.ttf
+0x02268cf0      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Microsoft\CD Burning
+0x022692e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\esent.dll
+0x022694b0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dot3api.dll
+0x022696d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\qutil.dll
+0x02269930      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\eapolqec.dll
+0x02269b68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wmi.dll
+0x02269d68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rtutils.dll
+0x02269f90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wzcsvc.dll
+0x0226a1a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\atl.dll
+0x0226a3e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\adsldpc.dll
+0x0226a618      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\activeds.dll
+0x0226abc8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\d3d9.dll
+0x0226af28      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\d3d8thk.dll
+0x0226dc60      1      0 -W-r-- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\Macromedia\Flash Player\#SharedObjects\WCU2NW2T\mail.google.com\wakeup.sol
+0x0226e028      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\NTUSER.DAT.LOG
+0x0226e530      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0x0226ea18      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winlogon.exe
+0x0226eab0      1      1 ------ \Device\KSENUM#00000001\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x0226ecb0      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\LocalService\NTUSER.DAT
+0x0226ee80      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dhcpcsvc.dll
+0x0226f218      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\couri.ttf
+0x0226f5f0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winrnr.dll
+0x0226f7c0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wshtcpip.dll
+0x0226f9e8      1      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\stdole2.tlb
+0x0226fb08      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\SpeechEngines\Microsoft
+0x0226fba0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\wbem\snmp
+0x0226fc38      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\Resources\Themes\Luna\Shell\Metallic
+0x0226fda0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mswsock.dll
+0x02270028      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022700f8      1      1 ------ \Device\NamedPipe\net\NtControlPipe3
+0x022702f0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022704e8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x022706e8      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat
+0x02270a90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\config\SysEvent.Evt
+0x02270b90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\cryptdll.dll
+0x02270cf8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\config\SecEvent.Evt
+0x02271080      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\config\AppEvent.Evt
+0x02271830      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\survey[1].js
+0x02271b48      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rpcss.dll
+0x02271c60      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ersvc.dll
+0x022720c8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\bullet[1].gif
+0x02272638      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wtsapi32.dll
+0x02272a40      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rsaenh.dll
+0x02272bb0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\davclnt.dll
+0x022735d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\iphlpapi.dll
+0x02274028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msacm32.dll
+0x02274178      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\GH012LM5\img_no1[1].png
+0x022744a8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\winsrv.dll
+0x02274540      2      1 ------ \Device\NamedPipe\protected_storage
+0x02274908      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\c_850.nls
+0x02274d40      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\uxtheme.dll
+0x02275268      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winmm.dll
+0x02275500      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\AppPatch\acgenral.dll
+0x022757d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shimeng.dll
+0x02275eb8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\samlib.dll
+0x02276028      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\webdings.ttf
+0x02276188      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\dnsapi.dll
+0x02276358      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\estre.ttf
+0x02276d20      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msvcp60.dll
+0x02276e28      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msutb.dll
+0x02277358      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\addthis[2].js
+0x02277528      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02277720      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x02277b10      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x02278120      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@mail[1].txt
+0x022781b8      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\History\History.IE5\index.dat
+0x022784e8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\desktop.ini
+0x02278778      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x02278b40      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\AppPatch\sysmain.sdb
+0x022794c0      1      1 ------ \Device\NamedPipe\InitShutdown
+0x022798c0      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\shell32.dll
+0x02279a68      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@adfarm1.adition[1].txt
+0x02279e98      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\WindowsShell.Manifest
+0x0227a0c0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x0227be20      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msimtf.dll
+0x0227d1d8      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\ccme_base.dll
+0x0227d270      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\pjlmon.dll
+0x022960d0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\trebucit.ttf
+0x02296500      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\AdobeLinguistic.dll
+0x02296c00      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\limewire.props
+0x02296e38      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\net.properties
+0x022970d8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\BOOKOSBI.TTF
+0x02297560      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\kernel32.dll
+0x02297b98      2      1 ------ \Device\Afd\Endpoint
+0x02297c80      2      1 ------ \Device\Afd\Endpoint
+0x02298d40      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\ssv.dll
+0x0229a2f0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\palab.ttf
+0x0229f598      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0426
+0x0229f630      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\0425
+0x0229f6c8      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\mui\041e
+0x022a15f0      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022a29a8      3      1 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\PrintHood
+0x022a3bd0      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@accounts[1].txt
+0x022a3c68      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\AcroRd32.exe
+0x022a4320      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\rc[1].gif
+0x022a4870      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\sortkey.nls
+0x022a4cf8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\AcroForm.api
+0x022a67d8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022a6870      3      1 ------ \Device\NamedPipe\net\NtControlPipe1
+0x022a6f90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ctype.nls
+0x022a7098      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\alternativ[1].gif
+0x022a8f90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ws2help.dll
+0x022a9460      3      1 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\Macromed\Flash\Flash10e.ocx
+0x022a98d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\marlett.ttf
+0x022a9a30      1      0 R--rw- \Device\HarddiskVolume1\WINDOWS\Fonts\arial.ttf
+0x022a9b70      3      1 R--r-- \Device\HarddiskVolume1\Program Files\Common Files\Adobe\Acrobat\ActiveX\AcroIEHelper.dll
+0x022aa028      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022aa288      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022aa5a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\tahoma.ttf
+0x022aa8d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ws2_32.dll
+0x022aad50      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winsta.dll
+0x022ab838      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\tahomabd.ttf
+0x022abbf8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\setupapi.dll
+0x022acdf8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\psapi.dll
+0x022ae3e8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\trebucbd.ttf
+0x022aff90      1      1 ------ \Device\Afd\Endpoint
+0x022b0ed8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\shgina.dll
+0x022b18e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\inetmib1.dll
+0x022b1f90      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\sh16[1].htm
+0x022b3138      1      0 RW---- \Device\HarddiskVolume1\RECYCLER\S-1-5-21-343818398-920026266-854245398-1003\INFO2
+0x022b5c30      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1273060348215[1]
+0x022b5f90      1      0 R--rwd \Device\HarddiskVolume1\PROGRA~1\COMMON~1\MICROS~1\SMARTT~1\MOFL.DLL
+0x022b68d8      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\0P6R8DE3\jquery-1.3.2.min[1].js
+0x022b7f90      4      1 ------ \Device\Afd\Endpoint
+0x022b8d98      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wuauserv.dll
+0x022b8ef8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\sens.dll
+0x022b8f90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\oleaut32.dll
+0x022b96a8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\lib\gtk-2.0\2.4.0\loaders\libpixbufloader-ico.dll
+0x022b9838      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\cryptsvc.dll
+0x022b98d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ole32.dll
+0x022b9988      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\odbcbcp.dll
+0x022b9da8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\dde.pyd
+0x022ba4e8      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\BOOKOSB.TTF
+0x022ba8b0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\imagehlp.dll
+0x022bab18      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\gdi32.dll
+0x022bb1c0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022bb878      1      0 -W---- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Cookies\peter haag@google[1].txt
+0x022bbcc0      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\Fonts\GOTHICI.TTF
+0x022bc540      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\jqs.exe
+0x022bd1c0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ntdll.dll
+0x022bd730      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\lz32.dll
+0x022bd898      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\kernel32.dll
+0x022bdc08      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022bde98      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\oleaut32.dll
+0x022be1e0      1      1 RW-rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x022be348      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netapi32.dll
+0x022be590      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msasn1.dll
+0x022be7d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\cryptui.dll
+0x022bea88      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022bed48      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\userenv.dll
+0x022bef28      1      1 ------ \Device\NamedPipe\wkssvc
+0x022bf0c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\apphelp.dll
+0x022bf300      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\olecnv32.dll
+0x022bf498      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022bf600      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\crypt32.dll
+0x022bf930      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shdocvw.dll
+0x022bfde8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\secur32.dll
+0x022bff90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mpr.dll
+0x022c01d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msvcrt.dll
+0x022c03a0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shlwapi.dll
+0x022c05b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\comctl32.dll
+0x022c07b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wldap32.dll
+0x022c09b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wininet.dll
+0x022c0bd8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\version.dll
+0x022c0dd8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\user32.dll
+0x022c0f90      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\urlmon.dll
+0x022c1210      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shell32.dll
+0x022c1848      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rpcrt4.dll
+0x022c1b48      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022c1e80      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wintrust.dll
+0x022c3c20      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\uxtheme.dll
+0x022c3e78      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msacm32.dll
+0x022c46a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\basesrv.dll
+0x022c49b8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\csrsrv.dll
+0x022c4b88      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\msvcr71.dll
+0x022c4e90      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\client\jvm.dll
+0x022c5308      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\dnsjava-2.0.6.jar
+0x022c5430      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\net.dll
+0x022c5598      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\daap.jar
+0x022c7920      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Accessibility.api
+0x022c8028      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\MozillaInterfaces-1.9.jar
+0x022c8a88      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\NetworkService\ntuser.dat.LOG
+0x022c8b20      4      1 RW---- \Device\HarddiskVolume1\Documents and Settings\NetworkService\NTUSER.DAT
+0x022c92f8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\lib\security\java.policy
+0x022c93f8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022c97f8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\zip.dll
+0x022c9b70      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\java.dll
+0x022c9e50      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\vgaoem.fon
+0x022ca138      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\verify.dll
+0x022ca398      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022ca8b8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022ca950      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\Fonts\vgasys.fon
+0x022ca9e8      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Java\jre6\bin\hpi.dll
+0x022cac48      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022cb258      1      0 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\bin\client\classes.jsa
+0x022cb828      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\Temporary Internet Files\Content.IE5\index.dat
+0x022cbe30      1      1 RW---- \Device\HarddiskVolume1\Documents and Settings\NetworkService\Local Settings\Application Data\Microsoft\Windows\UsrClass.dat.LOG
+0x022cc468      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\regapi.dll
+0x022cc6c8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022cc928      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\profmap.dll
+0x022ccd28      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x022cd1c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\odbcint.dll
+0x022cd440      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\sorttbls.nls
+0x022cd540      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shsvcs.dll
+0x022ce428      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x022ce708      2      1 ------ \Device\Afd\Endpoint
+0x022ce880      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022cea78      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022cf280      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83
+0x022cf580      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\locale.nls
+0x022cf840      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\unicode.nls
+0x022cf8d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\nv4_disp.dll
+0x022cfb38      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022cfd98      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\LocalService\Local Settings\History\History.IE5\index.dat
+0x022d07a8      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\AppFramework.jar
+0x022d0a98      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\messages.jar
+0x022d0e10      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\log4j.jar
+0x022d1028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\sfc_os.dll
+0x022d1248      2      1 ------ \Device\NamedPipe\InitShutdown
+0x022d1a20      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\advapi32.dll
+0x022d1e60      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x022d2450      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\usp10.dll
+0x022d2550      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\LocalService\Cookies\index.dat
+0x022d27b0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d2978      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\MSVCP71.DLL
+0x022d2a10      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d3218      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\sxs.dll
+0x022d3478      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\commons-logging.jar
+0x022d36c8      4      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\software
+0x022d3760      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\ime\chsime\applets
+0x022d3ad8      1      0 R--r-d \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Desktop\NC.EXE
+0x022d3d30      1      1 RW---- \Device\HarddiskVolume1\WINDOWS\system32\config\SECURITY.LOG
+0x022d41d8      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\commons-codec-1.3.jar
+0x022d4438      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d4698      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\base64-2.2.2.jar
+0x022d4b40      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wintrust.dll
+0x022d4de8      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\isapi\_vti_aut
+0x022d5028      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\clink.jar
+0x022d52a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\netapi32.dll
+0x022d5340      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winsrv.dll
+0x022d55a0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d5a68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msasn1.dll
+0x022d5b68      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\psapi.dll
+0x022d5dc8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d6028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\drivers\dxg.sys
+0x022d67c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\userenv.dll
+0x022d68c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\win32k.sys
+0x022d6f90      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\ga[1].js
+0x022d7320      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\vga.dll
+0x022d78d8      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\addyn_3[2]
+0x022d7970      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d7a08      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d7d78      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d7e78      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d8300      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\mlang.dll
+0x022d86d0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d87f8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d8d18      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d8ed8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\sfc.dll
+0x022d9028      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x022d91f8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ws2help.dll
+0x022d9838      1      0 R--r-d \Device\HarddiskVolume1\Program Files\Java\jre6\bin\jpeg.dll
+0x022d9b88      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\bin
+0x022d9f90      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cleaedos.dll
+0x022fb1f8      2      0 RWD--- \Device\HarddiskVolume1\$SetEndOfFileInfo
+0x02301f90      2      1 R--rwd \Device\HarddiskVolume1\Program Files\Adobe\Reader 8.0\Resource\CMap
+0x02302318      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\Macromed\Flash\Flash10e.ocx
+0x0230a120      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0230a220      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0230bac8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0230bd20      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wldap32.dll
+0x0230bee8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\version.dll
+0x02312508      1      0 R--rwd \Device\HarddiskVolume1\Program Files\Real\RealPlayer\realplay.exe
+0x02312760      1      0 -W-rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\6TEDUZUT\c[1].gif
+0x023147c8      2      1 ------ \Device\NamedPipe\TerminalServer\AutoReconnect
+0x02318628      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msvcrt.dll
+0x023191f8      3      0 RWD--- \Device\HarddiskVolume1\$LogFile
+0x0231a028      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0231a778      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0231a9f0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0231b1a8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\odbc32.dll
+0x0231c9f8      3      0 RWD--- \Device\HarddiskVolume1\$Mft
+0x0231e568      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\stobject.dll
+0x0232ef50      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\rpcrt4.dll
+0x0233f028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wdmaud.drv
+0x0233f1e0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\AppPatch\acadproc.dll
+0x0233fa00      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\nddeapi.dll
+0x0233fc60      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x023403a8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02340f90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x023416d0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02341bf8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x023431b0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02343248      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02343938      1      0 R--r-- \Device\HarddiskVolume1\WINDOWS\system32\ntdll.dll
+0x02350028      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\ext\QTJava.zip
+0x023505c0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02350908      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02350d68      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02351330      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02351790      1      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\LimeWire.jar
+0x02351d58      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02351e58      3      1 R--rw- \Device\HarddiskVolume1\Program Files\Java\jre6\lib\rt.jar
+0x023522a8      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb
+0x02352780      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x023528f0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\LimeWire.jar
+0x023529d8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02352bb0      1      0 R--rwd \Device\HarddiskVolume1\Program Files\BitTorrent\pango.pyd
+0x02352cd0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\setupapi.dll
+0x02352d68      2      1 ------ \Device\NamedPipe\W32TIME
+0x023553d0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02355768      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\wininet.dll
+0x02355858      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\ws2_32.dll
+0x023559c0      2      1 R--rw- \Device\HarddiskVolume1\Program Files\Common Files\Microsoft Shared\web server extensions\40\_vti_bin\_vti_aut
+0x02355e78      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msgina.dll
+0x023661d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\msacm32.drv
+0x02366390      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x023666f8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\comctl32.dll
+0x02366858      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\pchealth\helpctr\binaries\pchsvc.dll
+0x023674d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\certcli.dll
+0x0236a5d8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\secur32.dll
+0x0236a670      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\authz.dll
+0x0236b368      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0236b6b8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0236b888      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\user32.dll
+0x0236c028      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\localspl.dll
+0x0236c1c8      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0236c560      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0236c838      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shlwapi.dll
+0x0236da78      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0236e1c0      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\MozillaGlue-1.9.jar
+0x0236e398      2      1 ------ \Device\NamedPipe\spoolss
+0x0236e4c0      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0236e778      1      0 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Temporary Internet Files\Content.IE5\WDIZSHIJ\jquery_ui.core[1].js
+0x023734b0      1      1 R--rw- \Device\HarddiskVolume1\Documents and Settings\Peter Haag\Local Settings\Application Data\Mozilla\Firefox\Profiles\1gm4twd8.default\Cache
+0x023735f0      2      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32\inetsrv
+0x02373848      1      1 R--rw- \Device\HarddiskVolume1\WINDOWS\system32
+0x02373cf8      1      0 R--r-d \Device\HarddiskVolume1\WINDOWS\system32\cleaedos.dll
+0x02374028      3      0 RWD--- \Device\HarddiskVolume1\$BitMap
+0x02374658      3      0 RWD--- \Device\HarddiskVolume1\$Mft
+0x02375358      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02375710      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\EventBus-1.2b.jar
+0x02375b30      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\urlmon.dll
+0x02376820      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\winsta.dll
+0x023774d0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\shimeng.dll
+0x02377568      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02377aa0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\crypt32.dll
+0x02377b38      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02377d58      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x02377f90      3      0 RWD--- \Device\HarddiskVolume1\$Directory
+0x0238c3c0      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\system32\webcheck.dll
+0x0238c540      1      1 ------ \Device\Afd\Endpoint
+0x0238d788      3      0 RWD--- \Device\HarddiskVolume1\$MftMirr
+0x0238d828      3      1 R--rw- \Device\HarddiskVolume1\Program Files\LimeWire\lib\commons-math-1.2.jar
+0x023af598      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}
+0x023af850      1      0 R--rwd \Device\HarddiskVolume1\Documents and Settings\Peter Haag\My Documents\aut91657.doc
+0x023c15c8      1      0 R--rwd \Device\HarddiskVolume1\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb\msvcp80.dll
+0x023ed280      1      0 ------ \Device\KSENUM#00000002\{9B365890-165F-11D0-A195-0020AFD156E4}

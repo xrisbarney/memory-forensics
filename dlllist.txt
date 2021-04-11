@@ -1,0 +1,1569 @@
+************************************************************************
+System pid:      4
+Unable to read PEB for task.
+************************************************************************
+smss.exe pid:    500
+Command line : \SystemRoot\System32\smss.exe
+
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x48580000     0xf000     0xffff \SystemRoot\System32\smss.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+************************************************************************
+csrss.exe pid:    564
+Command line : C:\WINDOWS\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,3072,512 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=winsrv:ConServerDllInitialization,2 ProfileControl=Off MaxRequestThreads=16
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x4a680000     0x5000     0xffff \??\C:\WINDOWS\system32\csrss.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x75b40000     0xb000     0xffff C:\WINDOWS\system32\CSRSRV.dll
+0x75b50000    0x10000        0x3 C:\WINDOWS\system32\basesrv.dll
+0x75b60000    0x4b000        0x2 C:\WINDOWS\system32\winsrv.dll
+0x77f10000    0x49000        0x5 C:\WINDOWS\system32\GDI32.dll
+0x7c800000    0xf6000       0x12 C:\WINDOWS\system32\KERNEL32.dll
+0x7e410000    0x91000        0x6 C:\WINDOWS\system32\USER32.dll
+0x7e720000    0xb0000        0x1 C:\WINDOWS\system32\sxs.dll
+0x77dd0000    0x9b000        0x5 C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000        0x3 C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000        0x2 C:\WINDOWS\system32\Secur32.dll
+0x77b40000    0x22000        0x1 C:\WINDOWS\system32\Apphelp.dll
+0x77c00000     0x8000        0x1 C:\WINDOWS\system32\VERSION.dll
+************************************************************************
+winlogon.exe pid:    588
+Command line : winlogon.exe
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000    0x81000     0xffff \??\C:\WINDOWS\system32\winlogon.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x776c0000    0x12000     0xffff C:\WINDOWS\system32\AUTHZ.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x77a80000    0x95000     0xffff C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000     0xffff C:\WINDOWS\system32\MSASN1.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x75940000     0x8000     0xffff C:\WINDOWS\system32\NDdeApi.dll
+0x75930000     0xa000     0xffff C:\WINDOWS\system32\PROFMAP.dll
+0x5b860000    0x55000     0xffff C:\WINDOWS\system32\NETAPI32.dll
+0x769c0000    0xb4000     0xffff C:\WINDOWS\system32\USERENV.dll
+0x76bf0000     0xb000     0xffff C:\WINDOWS\system32\PSAPI.DLL
+0x76bc0000     0xf000     0xffff C:\WINDOWS\system32\REGAPI.dll
+0x77920000    0xf3000     0xffff C:\WINDOWS\system32\SETUPAPI.dll
+0x77c00000     0x8000     0xffff C:\WINDOWS\system32\VERSION.dll
+0x76360000    0x10000     0xffff C:\WINDOWS\system32\WINSTA.dll
+0x76c30000    0x2e000     0xffff C:\WINDOWS\system32\WINTRUST.dll
+0x76c90000    0x28000     0xffff C:\WINDOWS\system32\IMAGEHLP.dll
+0x71ab0000    0x17000     0xffff C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000     0xffff C:\WINDOWS\system32\WS2HELP.dll
+0x75970000    0xf8000        0x2 C:\WINDOWS\system32\MSGINA.dll
+0x5d090000    0x9a000        0x7 C:\WINDOWS\system32\COMCTL32.dll
+0x74320000    0x3d000        0x2 C:\WINDOWS\system32\ODBC32.dll
+0x763b0000    0x49000        0x2 C:\WINDOWS\system32\comdlg32.dll
+0x7c9c0000   0x817000       0x10 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000       0x1b C:\WINDOWS\system32\SHLWAPI.dll
+0x773d0000   0x103000        0x3 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x00930000    0x17000        0x1 C:\WINDOWS\system32\odbcint.dll
+0x776e0000    0x23000        0x1 C:\WINDOWS\system32\SHSVCS.dll
+0x76bb0000     0x5000        0x2 C:\WINDOWS\system32\sfc.dll
+0x76c60000    0x2a000        0x5 C:\WINDOWS\system32\sfc_os.dll
+0x774e0000   0x13d000       0x18 C:\WINDOWS\system32\ole32.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x77b40000    0x22000        0x1 C:\WINDOWS\system32\Apphelp.dll
+0x723d0000    0x1c000        0x7 C:\WINDOWS\system32\WINSCARD.DLL
+0x76f50000     0x8000        0x7 C:\WINDOWS\system32\WTSAPI32.dll
+0x7e720000    0xb0000        0x1 C:\WINDOWS\system32\sxs.dll
+0x76b40000    0x2d000       0x10 C:\WINDOWS\system32\WINMM.dll
+0x5ad70000    0x38000        0x5 C:\WINDOWS\system32\uxtheme.dll
+0x76600000    0x1d000        0x2 C:\WINDOWS\system32\cscdll.dll
+0x47020000     0x8000        0x1 C:\WINDOWS\System32\dimsntfy.dll
+0x75950000    0x1a000        0x6 C:\WINDOWS\system32\WlNotify.dll
+0x71b20000    0x12000        0x8 C:\WINDOWS\system32\MPR.dll
+0x73000000    0x26000        0x6 C:\WINDOWS\system32\WINSPOOL.DRV
+0x68000000    0x36000        0x1 C:\WINDOWS\system32\rsaenh.dll
+0x71bf0000    0x13000        0x4 C:\WINDOWS\system32\SAMLIB.dll
+0x77a20000    0x54000        0x1 C:\WINDOWS\system32\cscui.dll
+0x77c70000    0x24000        0x1 C:\WINDOWS\system32\msv1_0.dll
+0x76d60000    0x19000        0x1 C:\WINDOWS\system32\iphlpapi.dll
+0x76d40000    0x18000        0x1 C:\WINDOWS\system32\MPRAPI.dll
+0x77cc0000    0x32000        0x1 C:\WINDOWS\system32\ACTIVEDS.dll
+0x76e10000    0x25000        0x1 C:\WINDOWS\system32\adsldpc.dll
+0x76f60000    0x2c000        0x3 C:\WINDOWS\system32\WLDAP32.dll
+0x76b20000    0x11000        0x1 C:\WINDOWS\system32\ATL.DLL
+0x77120000    0x8b000        0x4 C:\WINDOWS\system32\OLEAUT32.dll
+0x76e80000     0xe000        0x1 C:\WINDOWS\system32\rtutils.dll
+0x01670000   0x2c5000        0x2 C:\WINDOWS\system32\xpsp2res.dll
+0x77690000    0x21000        0x1 C:\WINDOWS\system32\NTMARTA.DLL
+0x72d20000     0x9000        0x4 C:\WINDOWS\system32\wdmaud.drv
+0x72d10000     0x8000        0x2 C:\WINDOWS\system32\msacm32.drv
+0x77be0000    0x15000        0x2 C:\WINDOWS\system32\MSACM32.dll
+0x77bd0000     0x7000        0x1 C:\WINDOWS\system32\midimap.dll
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+************************************************************************
+services.exe pid:    636
+Command line : C:\WINDOWS\system32\services.exe
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000    0x1c000     0xffff C:\WINDOWS\system32\services.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x5f770000     0xc000     0xffff C:\WINDOWS\system32\NCObjAPI.DLL
+0x76080000    0x65000     0xffff C:\WINDOWS\system32\MSVCP60.dll
+0x7dbd0000    0x51000     0xffff C:\WINDOWS\system32\SCESRV.dll
+0x776c0000    0x12000     0xffff C:\WINDOWS\system32\AUTHZ.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x769c0000    0xb4000     0xffff C:\WINDOWS\system32\USERENV.dll
+0x7dba0000    0x21000     0xffff C:\WINDOWS\system32\umpnpmgr.dll
+0x76360000    0x10000     0xffff C:\WINDOWS\system32\WINSTA.dll
+0x5b860000    0x55000     0xffff C:\WINDOWS\system32\NETAPI32.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x47260000     0xf000        0x1 C:\WINDOWS\AppPatch\AcAdProc.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x77b40000    0x22000        0x1 C:\WINDOWS\system32\Apphelp.dll
+0x77c00000     0x8000        0x1 C:\WINDOWS\system32\VERSION.dll
+0x77b70000    0x11000        0x1 C:\WINDOWS\system32\eventlog.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x71ab0000    0x17000        0x1 C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000        0x1 C:\WINDOWS\system32\WS2HELP.dll
+0x76f50000     0x8000        0x1 C:\WINDOWS\system32\wtsapi32.dll
+************************************************************************
+lsass.exe pid:    656
+Command line : C:\WINDOWS\system32\lsass.exe
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000     0x6000     0xffff C:\WINDOWS\system32\lsass.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x75730000    0xb5000     0xffff C:\WINDOWS\system32\LSASRV.dll
+0x71b20000    0x12000     0xffff C:\WINDOWS\system32\MPR.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x77b20000    0x12000     0xffff C:\WINDOWS\system32\MSASN1.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x5b860000    0x55000     0xffff C:\WINDOWS\system32\NETAPI32.dll
+0x767a0000    0x13000     0xffff C:\WINDOWS\system32\NTDSAPI.dll
+0x76f20000    0x27000     0xffff C:\WINDOWS\system32\DNSAPI.dll
+0x71ab0000    0x17000     0xffff C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000     0xffff C:\WINDOWS\system32\WS2HELP.dll
+0x76f60000    0x2c000     0xffff C:\WINDOWS\system32\WLDAP32.dll
+0x71bf0000    0x13000     0xffff C:\WINDOWS\system32\SAMLIB.dll
+0x74440000    0x6a000     0xffff C:\WINDOWS\system32\SAMSRV.dll
+0x76790000     0xc000     0xffff C:\WINDOWS\system32\cryptdll.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x76b40000    0x2d000        0x2 C:\WINDOWS\system32\WINMM.dll
+0x774e0000   0x13d000        0x4 C:\WINDOWS\system32\ole32.dll
+0x77120000    0x8b000        0x2 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0x1 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x2 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x4 C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0xf C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x3 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x4d200000     0xe000        0x1 C:\WINDOWS\system32\msprivs.dll
+0x71cf0000    0x4c000        0x2 C:\WINDOWS\system32\kerberos.dll
+0x77c70000    0x24000        0x5 C:\WINDOWS\system32\msv1_0.dll
+0x76d60000    0x19000        0x8 C:\WINDOWS\system32\iphlpapi.dll
+0x744b0000    0x65000        0x2 C:\WINDOWS\system32\netlogon.dll
+0x767c0000    0x2c000        0x2 C:\WINDOWS\system32\w32time.dll
+0x76080000    0x65000        0x2 C:\WINDOWS\system32\MSVCP60.dll
+0x767f0000    0x27000        0x7 C:\WINDOWS\system32\schannel.dll
+0x77a80000    0x95000        0x9 C:\WINDOWS\system32\CRYPT32.dll
+0x74380000     0xf000        0x1 C:\WINDOWS\system32\wdigest.dll
+0x68000000    0x36000        0x1 C:\WINDOWS\system32\rsaenh.dll
+0x74410000    0x2f000        0x1 C:\WINDOWS\system32\scecli.dll
+0x77920000    0xf3000        0x1 C:\WINDOWS\system32\SETUPAPI.dll
+0x743e0000    0x2f000        0x1 C:\WINDOWS\system32\ipsecsvc.dll
+0x776c0000    0x12000        0x1 C:\WINDOWS\system32\AUTHZ.dll
+0x75d90000    0xd0000        0x1 C:\WINDOWS\system32\oakley.DLL
+0x74370000     0xb000        0x1 C:\WINDOWS\system32\WINIPSEC.DLL
+0x71a50000    0x3f000        0x2 C:\WINDOWS\system32\mswsock.dll
+0x662b0000    0x58000        0x1 C:\WINDOWS\system32\hnetcfg.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+0x743a0000     0xb000        0x1 C:\WINDOWS\system32\pstorsvc.dll
+0x743c0000    0x1b000        0x1 C:\WINDOWS\system32\psbase.dll
+0x68100000    0x26000        0x1 C:\WINDOWS\system32\dssenh.dll
+************************************************************************
+svchost.exe pid:    816
+Command line : C:\WINDOWS\system32\svchost -k DcomLaunch
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000     0x6000     0xffff C:\WINDOWS\system32\svchost.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x7e410000    0x91000       0x37 C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000       0x26 C:\WINDOWS\system32\GDI32.dll
+0x76b40000    0x2d000        0x2 C:\WINDOWS\system32\WINMM.dll
+0x774e0000   0x13d000        0xb C:\WINDOWS\system32\ole32.dll
+0x77c10000    0x58000       0x30 C:\WINDOWS\system32\msvcrt.dll
+0x77120000    0x8b000        0x6 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0x5 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x2 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x6 C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0x4 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x1 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x77690000    0x21000        0x1 C:\WINDOWS\system32\NTMARTA.DLL
+0x71bf0000    0x13000        0x1 C:\WINDOWS\system32\SAMLIB.dll
+0x76f60000    0x2c000        0x2 C:\WINDOWS\system32\WLDAP32.dll
+0x76a80000    0x64000        0x1 c:\windows\system32\rpcss.dll
+0x71ab0000    0x17000        0x2 c:\windows\system32\WS2_32.dll
+0x71aa0000     0x8000        0x2 c:\windows\system32\WS2HELP.dll
+0x00670000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x760f0000    0x53000        0x1 c:\windows\system32\termsrv.dll
+0x74f70000     0x6000        0x1 c:\windows\system32\ICAAPI.dll
+0x77920000    0xf3000        0x1 c:\windows\system32\SETUPAPI.dll
+0x76c30000    0x2e000        0x1 C:\WINDOWS\system32\WINTRUST.dll
+0x77a80000    0x95000        0x3 C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000        0x2 C:\WINDOWS\system32\MSASN1.dll
+0x76c90000    0x28000        0x1 C:\WINDOWS\system32\IMAGEHLP.dll
+0x776c0000    0x12000        0x1 c:\windows\system32\AUTHZ.dll
+0x75110000    0x1f000        0x1 c:\windows\system32\mstlsapi.dll
+0x77cc0000    0x32000        0x1 c:\windows\system32\ACTIVEDS.dll
+0x76e10000    0x25000        0x1 c:\windows\system32\adsldpc.dll
+0x5b860000    0x55000        0x4 C:\WINDOWS\system32\NETAPI32.dll
+0x76b20000    0x11000        0x1 c:\windows\system32\ATL.DLL
+0x76bc0000     0xf000        0x1 C:\WINDOWS\system32\REGAPI.dll
+0x68000000    0x36000        0x1 C:\WINDOWS\system32\rsaenh.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x77b40000    0x22000        0x1 C:\WINDOWS\system32\Apphelp.dll
+************************************************************************
+svchost.exe pid:    872
+Command line : C:\WINDOWS\system32\svchost -k rpcss
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000     0x6000     0xffff C:\WINDOWS\system32\svchost.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x7e410000    0x91000       0x27 C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000       0x1f C:\WINDOWS\system32\GDI32.dll
+0x76b40000    0x2d000        0x2 C:\WINDOWS\system32\WINMM.dll
+0x774e0000   0x13d000        0x6 C:\WINDOWS\system32\ole32.dll
+0x77c10000    0x58000       0x2d C:\WINDOWS\system32\msvcrt.dll
+0x77120000    0x8b000        0x3 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0x3 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x1 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x3 C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0x2 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x1 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x76a80000    0x64000        0x1 c:\windows\system32\rpcss.dll
+0x71ab0000    0x17000        0xe c:\windows\system32\WS2_32.dll
+0x71aa0000     0x8000       0x12 c:\windows\system32\WS2HELP.dll
+0x00670000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x68000000    0x36000        0x1 C:\WINDOWS\system32\rsaenh.dll
+0x71a50000    0x3f000        0x5 C:\WINDOWS\system32\mswsock.dll
+0x662b0000    0x58000        0x1 C:\WINDOWS\system32\hnetcfg.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+0x76f20000    0x27000        0x2 C:\WINDOWS\system32\DNSAPI.dll
+0x76d60000    0x19000        0x1 C:\WINDOWS\system32\iphlpapi.dll
+0x76fb0000     0x8000        0x1 C:\WINDOWS\System32\winrnr.dll
+0x76f60000    0x2c000        0x1 C:\WINDOWS\system32\WLDAP32.dll
+0x76fc0000     0x6000        0x1 C:\WINDOWS\system32\rasadhlp.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x7d1e0000   0x2bc000        0x2 C:\WINDOWS\system32\msi.dll
+************************************************************************
+svchost.exe pid:    956
+Command line : C:\WINDOWS\System32\svchost.exe -k netsvcs
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000     0x6000     0xffff C:\WINDOWS\System32\svchost.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\System32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x7e410000    0x91000      0x30b C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000      0x1a9 C:\WINDOWS\system32\GDI32.dll
+0x76b40000    0x2d000       0x10 C:\WINDOWS\System32\WINMM.dll
+0x774e0000   0x13d000       0xb7 C:\WINDOWS\system32\ole32.dll
+0x77c10000    0x58000      0x335 C:\WINDOWS\system32\msvcrt.dll
+0x77120000    0x8b000       0x82 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\System32\MSACM32.dll
+0x77c00000     0x8000       0x1e C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000       0x14 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000       0x4b C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000       0x16 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x4 C:\WINDOWS\System32\UxTheme.dll
+0x773d0000   0x103000        0xa C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x6 C:\WINDOWS\system32\comctl32.dll
+0x77690000    0x21000        0x1 C:\WINDOWS\System32\NTMARTA.DLL
+0x71bf0000    0x13000        0xf C:\WINDOWS\System32\SAMLIB.dll
+0x76f60000    0x2c000       0x1d C:\WINDOWS\system32\WLDAP32.dll
+0x00630000   0x2c5000        0x2 C:\WINDOWS\System32\xpsp2res.dll
+0x776e0000    0x23000        0x4 c:\windows\system32\shsvcs.dll
+0x76360000    0x10000       0x1b C:\WINDOWS\System32\WINSTA.dll
+0x5b860000    0x55000       0x71 C:\WINDOWS\system32\NETAPI32.dll
+0x68000000    0x36000        0x1 C:\WINDOWS\System32\rsaenh.dll
+0x7d4b0000    0x22000        0x5 c:\windows\system32\dhcpcsvc.dll
+0x76f20000    0x27000        0xe c:\windows\system32\DNSAPI.dll
+0x71ab0000    0x17000       0x6d c:\windows\system32\WS2_32.dll
+0x71aa0000     0x8000       0x3e c:\windows\system32\WS2HELP.dll
+0x76d60000    0x19000       0x19 c:\windows\system32\iphlpapi.dll
+0x71a50000    0x3f000        0x6 C:\WINDOWS\system32\mswsock.dll
+0x662b0000    0x58000        0x6 C:\WINDOWS\System32\hnetcfg.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+0x7db10000    0x8c000        0x3 c:\windows\system32\wzcsvc.dll
+0x76e80000     0xe000       0x46 c:\windows\system32\rtutils.dll
+0x76d30000     0x4000        0x5 c:\windows\system32\WMI.dll
+0x77a80000    0x95000       0x35 C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000       0x25 C:\WINDOWS\system32\MSASN1.dll
+0x72810000     0xb000        0x4 c:\windows\system32\EapolQec.dll
+0x76b20000    0x11000       0x23 c:\windows\system32\ATL.DLL
+0x726c0000    0x16000        0x4 c:\windows\system32\QUtil.dll
+0x76080000    0x65000       0x23 c:\windows\system32\MSVCP60.dll
+0x478c0000     0xa000        0xf c:\windows\system32\dot3api.dll
+0x76f50000     0x8000       0x17 c:\windows\system32\WTSAPI32.dll
+0x606b0000   0x10d000        0x5 c:\windows\system32\ESENT.dll
+0x65f40000     0xc000        0x1 c:\windows\system32\irmon.dll
+0x77c70000    0x24000        0x1 C:\WINDOWS\system32\msv1_0.dll
+0x77920000    0xf3000       0x10 C:\WINDOWS\System32\SETUPAPI.DLL
+0x58d30000     0x6000        0x1 C:\WINDOWS\System32\wshirda.dll
+0x76fd0000    0x7f000        0x5 C:\WINDOWS\System32\CLBCATQ.DLL
+0x77050000    0xc5000       0x11 C:\WINDOWS\System32\COMRes.dll
+0x76b70000    0x27000        0x5 C:\WINDOWS\System32\rastls.dll
+0x754d0000    0x80000        0x6 C:\WINDOWS\system32\CRYPTUI.dll
+0x771b0000    0xaa000        0x8 C:\WINDOWS\system32\WININET.dll
+0x76c30000    0x2e000        0xb C:\WINDOWS\system32\WINTRUST.dll
+0x76c90000    0x28000        0xc C:\WINDOWS\system32\IMAGEHLP.dll
+0x76d40000    0x18000        0xa C:\WINDOWS\System32\MPRAPI.dll
+0x77cc0000    0x32000        0xa C:\WINDOWS\System32\ACTIVEDS.dll
+0x76e10000    0x25000        0xa C:\WINDOWS\System32\adsldpc.dll
+0x76ee0000    0x3c000        0xe C:\WINDOWS\System32\RASAPI32.dll
+0x76e90000    0x12000       0x10 C:\WINDOWS\System32\rasman.dll
+0x76eb0000    0x2f000        0xf C:\WINDOWS\System32\TAPI32.dll
+0x767f0000    0x27000        0x5 C:\WINDOWS\System32\SCHANNEL.dll
+0x723d0000    0x1c000        0x5 C:\WINDOWS\System32\WinSCard.dll
+0x76bf0000     0xb000        0x8 C:\WINDOWS\System32\PSAPI.DLL
+0x76bd0000    0x16000        0x3 C:\WINDOWS\System32\raschap.dll
+0x77300000    0x33000        0x1 c:\windows\system32\schedsvc.dll
+0x767a0000    0x13000        0x8 c:\windows\system32\NTDSAPI.dll
+0x74f50000     0x5000        0x1 C:\WINDOWS\System32\MSIDLE.DLL
+0x708b0000     0xd000        0x1 c:\windows\system32\audiosrv.dll
+0x76e40000    0x23000        0x1 c:\windows\system32\wkssvc.dll
+0x5b9f0000    0x6b000        0x2 c:\windows\system32\qmgr.dll
+0x71b20000    0x12000        0x2 C:\WINDOWS\system32\MPR.dll
+0x76780000     0x9000        0x2 c:\windows\system32\SHFOLDER.dll
+0x4d4f0000    0x59000        0x4 c:\windows\system32\WINHTTP.dll
+0x76ce0000    0x12000        0x1 c:\windows\system32\cryptsvc.dll
+0x77b90000    0x32000        0x1 c:\windows\system32\certcli.dll
+0x74f80000     0x9000        0x1 c:\windows\system32\ersvc.dll
+0x77710000    0x42000        0x3 c:\windows\system32\es.dll
+0x74f40000     0xc000        0x1 c:\windows\pchealth\helpctr\binaries\pchsvc.dll
+0x77d00000    0x33000        0x2 C:\WINDOWS\System32\netman.dll
+0x76400000   0x1a5000        0x6 C:\WINDOWS\System32\netshell.dll
+0x76c00000    0x2e000        0x6 C:\WINDOWS\System32\credui.dll
+0x736d0000     0x6000        0x6 C:\WINDOWS\System32\dot3dlg.dll
+0x5dca0000    0x28000        0x6 C:\WINDOWS\System32\OneX.DLL
+0x745b0000    0x22000        0x6 C:\WINDOWS\System32\eappcfg.dll
+0x5dcd0000     0xe000        0x6 C:\WINDOWS\System32\eappprxy.dll
+0x73030000    0x10000        0x2 C:\WINDOWS\System32\WZCSAPI.DLL
+0x75090000    0x1a000        0x1 c:\windows\system32\srvsvc.dll
+0x722d0000     0xd000        0x1 c:\windows\system32\sens.dll
+0x73d20000     0x8000        0x1 c:\windows\system32\seclogon.dll
+0x751a0000    0x2e000        0x1 c:\windows\system32\srsvc.dll
+0x74ad0000     0x8000        0x1 c:\windows\system32\POWRPROF.dll
+0x75070000    0x19000        0x1 c:\windows\system32\trkwks.dll
+0x50000000     0x5000        0x1 c:\windows\system32\wuauserv.dll
+0x59490000    0x28000        0x1 c:\windows\system32\wbem\wmisvc.dll
+0x753e0000    0x6d000        0x1 C:\WINDOWS\system32\VSSAPI.DLL
+0x767c0000    0x2c000        0x3 c:\windows\system32\w32time.dll
+0x50040000   0x1d9000        0x1 C:\WINDOWS\system32\wuaueng.dll
+0x73000000    0x26000        0x1 C:\WINDOWS\System32\WINSPOOL.DRV
+0x75150000    0x13000        0x1 C:\WINDOWS\System32\Cabinet.dll
+0x600a0000     0xb000        0x1 C:\WINDOWS\System32\mspatcha.dll
+0x4c0a0000    0x17000        0x1 c:\windows\system32\wscsvc.dll
+0x7d1e0000   0x2bc000        0x1 c:\windows\system32\msi.dll
+0x75290000    0x37000        0xf C:\WINDOWS\system32\wbem\wbemcomn.dll
+0x762c0000    0x85000        0x1 C:\WINDOWS\System32\Wbem\wbemcore.dll
+0x75310000    0x3f000        0x4 C:\WINDOWS\System32\Wbem\esscli.dll
+0x75690000    0x76000        0x8 C:\WINDOWS\System32\Wbem\FastProx.dll
+0x76da0000    0x16000        0x2 c:\windows\system32\browser.dll
+0x75020000    0x1b000        0x1 C:\WINDOWS\system32\wbem\wmiutils.dll
+0x75200000    0x2f000        0x1 C:\WINDOWS\system32\wbem\repdrvfs.dll
+0x597f0000    0x6d000        0x1 C:\WINDOWS\system32\wbem\wmiprvsd.dll
+0x5f770000     0xc000        0x2 C:\WINDOWS\system32\NCObjAPI.DLL
+0x75390000    0x46000        0x1 C:\WINDOWS\system32\wbem\wbemess.dll
+0x5f740000     0xe000        0x1 C:\WINDOWS\system32\wbem\ncprov.dll
+0x76bb0000     0x5000        0x1 C:\WINDOWS\System32\sfc.dll
+0x76c60000    0x2a000        0x2 C:\WINDOWS\System32\sfc_os.dll
+0x77b40000    0x22000        0x1 C:\WINDOWS\system32\Apphelp.dll
+0x7e720000    0xb0000        0x1 C:\WINDOWS\System32\SXS.DLL
+0x76620000   0x13c000        0x3 C:\WINDOWS\system32\comsvcs.dll
+0x75130000    0x14000        0x3 C:\WINDOWS\system32\colbact.DLL
+0x750f0000    0x13000        0x3 C:\WINDOWS\system32\MTXCLU.DLL
+0x71ad0000     0x9000        0x3 C:\WINDOWS\system32\WSOCK32.dll
+0x76d10000    0x12000        0x2 C:\WINDOWS\System32\CLUSAPI.DLL
+0x750b0000    0x12000        0x1 C:\WINDOWS\System32\RESUTILS.DLL
+0x66460000    0x55000        0x1 c:\windows\system32\ipnathlp.dll
+0x776c0000    0x12000        0x2 c:\windows\system32\AUTHZ.dll
+0x50f00000     0xd000        0x1 C:\WINDOWS\system32\wups2.dll
+0x76de0000    0x24000        0x1 C:\WINDOWS\system32\upnp.dll
+0x74f00000     0xc000        0x1 C:\WINDOWS\system32\SSDPAPI.dll
+0x76fc0000     0x6000        0x1 C:\WINDOWS\System32\rasadhlp.dll
+0x768d0000    0xa4000        0x1 C:\WINDOWS\System32\RASDLG.dll
+************************************************************************
+svchost.exe pid:   1080
+Command line : C:\WINDOWS\system32\svchost.exe -k NetworkService
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000     0x6000     0xffff C:\WINDOWS\system32\svchost.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x7e410000    0x91000       0x1a C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000       0x14 C:\WINDOWS\system32\GDI32.dll
+0x76b40000    0x2d000        0x2 C:\WINDOWS\system32\WINMM.dll
+0x774e0000   0x13d000        0x2 C:\WINDOWS\system32\ole32.dll
+0x77c10000    0x58000       0x17 C:\WINDOWS\system32\msvcrt.dll
+0x77120000    0x8b000        0x1 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0x1 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x1 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x3 C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0x1 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x1 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x76770000     0xd000        0x1 c:\windows\system32\dnsrslvr.dll
+0x76f20000    0x27000        0x1 c:\windows\system32\DNSAPI.dll
+0x71ab0000    0x17000        0x7 c:\windows\system32\WS2_32.dll
+0x71aa0000     0x8000        0x8 c:\windows\system32\WS2HELP.dll
+0x76d60000    0x19000        0x2 c:\windows\system32\iphlpapi.dll
+0x68000000    0x36000        0x1 C:\WINDOWS\system32\rsaenh.dll
+0x71a50000    0x3f000        0x2 C:\WINDOWS\system32\mswsock.dll
+0x662b0000    0x58000        0x1 C:\WINDOWS\system32\hnetcfg.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+************************************************************************
+svchost.exe pid:   1224
+Command line : C:\WINDOWS\system32\svchost.exe -k LocalService
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000     0x6000     0xffff C:\WINDOWS\system32\svchost.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x7e410000    0x91000       0x41 C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000       0x36 C:\WINDOWS\system32\GDI32.dll
+0x76b40000    0x2d000        0x2 C:\WINDOWS\system32\WINMM.dll
+0x774e0000   0x13d000        0xe C:\WINDOWS\system32\ole32.dll
+0x77c10000    0x58000       0x55 C:\WINDOWS\system32\msvcrt.dll
+0x77120000    0x8b000        0x7 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0x3 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x3 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x7 C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0x1 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x1 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x2 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x77690000    0x21000        0x1 C:\WINDOWS\system32\NTMARTA.DLL
+0x71bf0000    0x13000        0x1 C:\WINDOWS\system32\SAMLIB.dll
+0x76f60000    0x2c000        0x1 C:\WINDOWS\system32\WLDAP32.dll
+0x00630000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x74c40000     0x6000        0x1 c:\windows\system32\lmhsvc.dll
+0x76d60000    0x19000        0x2 c:\windows\system32\iphlpapi.dll
+0x71ab0000    0x17000       0x24 c:\windows\system32\WS2_32.dll
+0x71aa0000     0x8000       0x25 c:\windows\system32\WS2HELP.dll
+0x5a6e0000    0x15000        0x1 c:\windows\system32\webclnt.dll
+0x771b0000    0xaa000        0x1 C:\WINDOWS\system32\WININET.dll
+0x77a80000    0x95000        0x1 C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000        0x1 C:\WINDOWS\system32\MSASN1.dll
+0x71ad0000     0x9000        0x1 C:\WINDOWS\system32\wsock32.dll
+0x70f80000     0x8000        0x1 c:\windows\system32\alrsvc.dll
+0x5b860000    0x55000        0x1 C:\WINDOWS\system32\NETAPI32.dll
+0x76af0000    0x12000        0x1 c:\windows\system32\regsvc.dll
+0x765e0000    0x14000        0x1 c:\windows\system32\ssdpsrv.dll
+0x662b0000    0x58000        0x3 C:\WINDOWS\system32\hnetcfg.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x71a50000    0x3f000        0x2 C:\WINDOWS\system32\mswsock.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+************************************************************************
+spoolsv.exe pid:   1460
+Command line : C:\WINDOWS\system32\spoolsv.exe
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000    0x10000     0xffff C:\WINDOWS\system32\spoolsv.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x76b40000    0x2d000        0x2 C:\WINDOWS\system32\WINMM.dll
+0x774e0000   0x13d000       0x14 C:\WINDOWS\system32\ole32.dll
+0x77120000    0x8b000        0x8 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0x7 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x1 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x3 C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0x5 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x1 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x742e0000    0x15000        0xc C:\WINDOWS\system32\SPOOLSS.DLL
+0x71ab0000    0x17000       0x1c C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000       0x15 C:\WINDOWS\system32\WS2HELP.dll
+0x76f20000    0x27000        0x4 C:\WINDOWS\system32\DNSAPI.dll
+0x76fc0000     0x6000        0x1 C:\WINDOWS\system32\rasadhlp.dll
+0x75bb0000    0x56000        0x4 C:\WINDOWS\system32\localspl.dll
+0x76c60000    0x2a000        0x4 C:\WINDOWS\system32\sfc_os.dll
+0x76c30000    0x2e000        0x5 C:\WINDOWS\system32\WINTRUST.dll
+0x77a80000    0x95000        0xa C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000        0xb C:\WINDOWS\system32\MSASN1.dll
+0x76c90000    0x28000        0x5 C:\WINDOWS\system32\IMAGEHLP.dll
+0x73000000    0x26000        0x2 C:\WINDOWS\system32\winspool.drv
+0x5b860000    0x55000        0x5 C:\WINDOWS\system32\netapi32.dll
+0x742a0000     0xe000        0x1 C:\WINDOWS\system32\cnbjmon.dll
+0x71a50000    0x3f000        0x3 C:\WINDOWS\system32\mswsock.dll
+0x74280000     0x7000        0x1 C:\WINDOWS\system32\pjlmon.dll
+0x72400000     0xe000        0x1 C:\WINDOWS\system32\tcpmon.dll
+0x723f0000     0x7000        0x1 C:\WINDOWS\system32\usbmon.dll
+0x76fb0000     0x8000        0x1 C:\WINDOWS\System32\winrnr.dll
+0x76f60000    0x2c000        0x2 C:\WINDOWS\system32\WLDAP32.dll
+0x75c10000    0x24000        0x1 C:\WINDOWS\system32\win32spl.dll
+0x71c80000     0x7000        0x1 C:\WINDOWS\system32\NETRAP.dll
+0x767a0000    0x13000        0x1 C:\WINDOWS\system32\NTDSAPI.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x74300000    0x15000        0x1 C:\WINDOWS\system32\inetpp.dll
+0x01010000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+************************************************************************
+explorer.exe pid:   1532
+Command line : C:\WINDOWS\Explorer.EXE
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000    0xff000     0xffff C:\WINDOWS\Explorer.EXE
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x75f80000    0xfd000     0xffff C:\WINDOWS\system32\BROWSEUI.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x774e0000   0x13d000     0xffff C:\WINDOWS\system32\ole32.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x77120000    0x8b000     0xffff C:\WINDOWS\system32\OLEAUT32.dll
+0x7e290000   0x171000     0xffff C:\WINDOWS\system32\SHDOCVW.dll
+0x77a80000    0x95000     0xffff C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000     0xffff C:\WINDOWS\system32\MSASN1.dll
+0x754d0000    0x80000     0xffff C:\WINDOWS\system32\CRYPTUI.dll
+0x5b860000    0x55000     0xffff C:\WINDOWS\system32\NETAPI32.dll
+0x77c00000     0x8000     0xffff C:\WINDOWS\system32\VERSION.dll
+0x771b0000    0xaa000     0xffff C:\WINDOWS\system32\WININET.dll
+0x76c30000    0x2e000     0xffff C:\WINDOWS\system32\WINTRUST.dll
+0x76c90000    0x28000     0xffff C:\WINDOWS\system32\IMAGEHLP.dll
+0x76f60000    0x2c000     0xffff C:\WINDOWS\system32\WLDAP32.dll
+0x7c9c0000   0x817000     0xffff C:\WINDOWS\system32\SHELL32.dll
+0x5ad70000    0x38000     0xffff C:\WINDOWS\system32\UxTheme.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x76b40000    0x2d000        0xd C:\WINDOWS\system32\WINMM.dll
+0x77be0000    0x15000        0x3 C:\WINDOWS\system32\MSACM32.dll
+0x769c0000    0xb4000        0xc C:\WINDOWS\system32\USERENV.dll
+0x773d0000   0x103000       0x18 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000       0x1a C:\WINDOWS\system32\comctl32.dll
+0x77b40000    0x22000        0x2 C:\WINDOWS\system32\appHelp.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x77a20000    0x54000        0x2 C:\WINDOWS\System32\cscui.dll
+0x76600000    0x1d000        0x2 C:\WINDOWS\System32\CSCDLL.dll
+0x5ba60000    0x71000        0x1 C:\WINDOWS\system32\themeui.dll
+0x76380000     0x5000        0x2 C:\WINDOWS\system32\MSIMG32.dll
+0x01170000   0x2c5000        0x3 C:\WINDOWS\system32\xpsp2res.dll
+0x5fc10000    0x33000        0x1 C:\WINDOWS\system32\msutb.dll
+0x74720000    0x4c000        0x2 C:\WINDOWS\system32\MSCTF.dll
+0x71bf0000    0x13000        0x2 C:\WINDOWS\system32\SAMLIB.dll
+0x76980000     0x8000        0x1 C:\WINDOWS\system32\LINKINFO.dll
+0x76990000    0x25000        0x3 C:\WINDOWS\system32\ntshrui.dll
+0x76b20000    0x11000        0x5 C:\WINDOWS\system32\ATL.DLL
+0x77920000    0xf3000        0x7 C:\WINDOWS\system32\SETUPAPI.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x7d1e0000   0x2bc000        0x3 C:\WINDOWS\system32\msi.dll
+0x76360000    0x10000        0xb C:\WINDOWS\system32\WINSTA.dll
+0x7e1e0000    0xa2000        0x3 C:\WINDOWS\system32\urlmon.dll
+0x74b30000    0x46000        0x1 C:\WINDOWS\system32\webcheck.dll
+0x71ad0000     0x9000        0x1 C:\WINDOWS\system32\WSOCK32.dll
+0x71ab0000    0x17000        0x6 C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000        0x3 C:\WINDOWS\system32\WS2HELP.dll
+0x76280000    0x21000        0x2 C:\WINDOWS\system32\stobject.dll
+0x74af0000     0xa000        0x2 C:\WINDOWS\system32\BatMeter.dll
+0x74ad0000     0x8000        0x4 C:\WINDOWS\system32\POWRPROF.dll
+0x76f50000     0x8000        0x4 C:\WINDOWS\system32\WTSAPI32.dll
+0x76400000   0x1a5000        0x2 C:\WINDOWS\system32\NETSHELL.dll
+0x76c00000    0x2e000        0x2 C:\WINDOWS\system32\credui.dll
+0x478c0000     0xa000        0x4 C:\WINDOWS\system32\dot3api.dll
+0x76e80000     0xe000        0x8 C:\WINDOWS\system32\rtutils.dll
+0x736d0000     0x6000        0x2 C:\WINDOWS\system32\dot3dlg.dll
+0x5dca0000    0x28000        0x2 C:\WINDOWS\system32\OneX.DLL
+0x745b0000    0x22000        0x2 C:\WINDOWS\system32\eappcfg.dll
+0x76080000    0x65000        0x4 C:\WINDOWS\system32\MSVCP60.dll
+0x5dcd0000     0xe000        0x2 C:\WINDOWS\system32\eappprxy.dll
+0x76d60000    0x19000        0x2 C:\WINDOWS\system32\iphlpapi.dll
+0x68000000    0x36000        0x1 C:\WINDOWS\system32\rsaenh.dll
+0x72d20000     0x9000        0x4 C:\WINDOWS\system32\wdmaud.drv
+0x72d10000     0x8000        0x2 C:\WINDOWS\system32\msacm32.drv
+0x77bd0000     0x7000        0x1 C:\WINDOWS\system32\midimap.dll
+0x71600000    0x12000        0x1 C:\WINDOWS\system32\browselc.dll
+0x7e720000    0xb0000        0x1 C:\WINDOWS\system32\SXS.DLL
+0x71b20000    0x12000        0x1 C:\WINDOWS\system32\MPR.dll
+0x75f60000     0x7000        0x1 C:\WINDOWS\System32\drprov.dll
+0x71c10000     0xe000        0x1 C:\WINDOWS\System32\ntlanman.dll
+0x71cd0000    0x17000        0x2 C:\WINDOWS\System32\NETUI0.dll
+0x71c90000    0x40000        0x1 C:\WINDOWS\System32\NETUI1.dll
+0x71c80000     0x7000        0x1 C:\WINDOWS\System32\NETRAP.dll
+0x75f70000     0xa000        0x1 C:\WINDOWS\System32\davclnt.dll
+0x6c1b0000    0x4d000        0x2 C:\WINDOWS\system32\DUSER.dll
+0x75970000    0xf8000        0x6 C:\WINDOWS\system32\MSGINA.dll
+0x74320000    0x3d000        0x6 C:\WINDOWS\system32\ODBC32.dll
+0x763b0000    0x49000        0x6 C:\WINDOWS\system32\comdlg32.dll
+0x027b0000    0x17000        0x1 C:\WINDOWS\system32\odbcint.dll
+0x75cf0000    0x91000        0x1 C:\WINDOWS\system32\MLANG.dll
+0x5af60000    0x15000        0x1 C:\WINDOWS\system32\usbui.dll
+0x022a0000    0x10000        0x1 C:\Program Files\Common Files\Adobe\Acrobat\ActiveX\AcroIEHelper.dll
+0x78130000    0x9b000        0x6 C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb\MSVCR80.dll
+0x32520000    0x12000        0x1 C:\Program Files\Microsoft Office\Office10\msohev.dll
+0x028e0000    0x5b000        0x5 C:\Program Files\Common Files\Adobe\Acrobat\ActiveX\PDFShell.dll
+0x4ec50000   0x1a6000        0x2 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.5512_x-ww_dfb54e0c\gdiplus.dll
+0x5cb00000    0x6e000        0x1 C:\WINDOWS\system32\shimgvw.dll
+0x71800000    0x88000        0x1 C:\WINDOWS\system32\shdoclc.dll
+************************************************************************
+jusched.exe pid:   1796
+Command line : "C:\Program Files\Java\jre6\bin\jusched.exe" 
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000    0x22000     0xffff C:\Program Files\Java\jre6\bin\jusched.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x771b0000    0xaa000     0xffff C:\WINDOWS\system32\WININET.dll
+0x77a80000    0x95000     0xffff C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000     0xffff C:\WINDOWS\system32\MSASN1.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x77120000    0x8b000     0xffff C:\WINDOWS\system32\OLEAUT32.dll
+0x774e0000   0x13d000     0xffff C:\WINDOWS\system32\ole32.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x7c9c0000   0x817000     0xffff C:\WINDOWS\system32\SHELL32.dll
+0x773d0000   0x103000        0x2 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x5b860000    0x55000        0x1 C:\WINDOWS\system32\NETAPI32.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x5ad70000    0x38000        0x2 C:\WINDOWS\system32\uxtheme.dll
+************************************************************************
+winampa.exe pid:   1840
+Command line : "C:\Program Files\Winamp\winampa.exe" 
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000     0xe000     0xffff C:\Program Files\Winamp\winampa.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x7c9c0000   0x817000     0xffff C:\WINDOWS\system32\SHELL32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x773d0000   0x103000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x5b860000    0x55000        0x1 C:\WINDOWS\system32\NETAPI32.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x5ad70000    0x38000        0x2 C:\WINDOWS\system32\uxtheme.dll
+0x74720000    0x4c000        0x1 C:\WINDOWS\system32\MSCTF.dll
+************************************************************************
+realplay.exe pid:   1852
+Command line : "C:\Program Files\Real\RealPlayer\RealPlay.exe" SYSTEMBOOTHIDEPLAYER
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000     0x7000     0xffff C:\Program Files\Real\RealPlayer\RealPlay.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x774e0000   0x13d000     0xffff C:\WINDOWS\system32\ole32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x62000000    0x47000     0xffff C:\WINDOWS\system32\pncrt.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x76b40000    0x2d000       0x13 C:\WINDOWS\system32\WINMM.dll
+0x77120000    0x8b000        0x2 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x3 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0xa C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000       0x18 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000       0x2d C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0x1 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x2 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x2 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000       0x27 C:\WINDOWS\system32\comctl32.dll
+0x10000000    0x4f000        0x1 C:\Program Files\Real\RealPlayer\rpap3260.dll
+0x605f0000    0x53000       0x11 C:\Program Files\Common Files\Real\Common\pngu3260.dll
+0x763b0000    0x49000       0x11 C:\WINDOWS\system32\comdlg32.dll
+0x606f0000     0x7000       0x10 C:\Program Files\Common Files\Real\Common\pnrs3260.dll
+0x00dc0000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x5b860000    0x55000        0x1 C:\WINDOWS\system32\NETAPI32.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x60850000    0x4b000        0x2 C:\Program Files\Common Files\Real\Common\rpcl3260.dll
+0x604a0000    0x34000        0x1 C:\Program Files\Common Files\Real\Common\rppr3260.dll
+0x62100000    0xc8000        0x4 C:\Program Files\Common Files\Real\Common\pnen3260.dll
+0x71ad0000     0x9000        0x4 C:\WINDOWS\system32\WSOCK32.dll
+0x71ab0000    0x17000        0x6 C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000        0x6 C:\WINDOWS\system32\WS2HELP.dll
+0x75a70000    0x21000        0x4 C:\WINDOWS\system32\MSVFW32.dll
+0x771b0000    0xaa000        0x1 C:\WINDOWS\system32\wininet.dll
+0x77a80000    0x95000        0x3 C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000        0x5 C:\WINDOWS\system32\MSASN1.dll
+0x76c30000    0x2e000        0x2 C:\WINDOWS\system32\WINTRUST.dll
+0x76c90000    0x28000        0x2 C:\WINDOWS\system32\IMAGEHLP.dll
+0x72d20000     0x9000        0x4 C:\WINDOWS\system32\wdmaud.drv
+0x72d10000     0x8000        0x2 C:\WINDOWS\system32\msacm32.drv
+0x77bd0000     0x7000        0x1 C:\WINDOWS\system32\midimap.dll
+0x74720000    0x4c000        0x1 C:\WINDOWS\system32\MSCTF.dll
+0x62350000    0x18000        0x1 C:\Program Files\Common Files\Real\Plugins\http3260.dll
+0x62950000     0xb000        0x1 C:\Program Files\Common Files\Real\Plugins\pnxr3260.dll
+0x603f0000    0x10000        0x1 C:\Program Files\Common Files\Real\Common\rpst3260.dll
+0x60150000     0xb000        0x1 C:\Program Files\Common Files\Real\Common\rppl3260.dll
+0x600f0000    0x1a000        0x1 C:\Program Files\Common Files\Real\Common\rprm3260.dll
+0x601a0000    0x34000        0x3 C:\Program Files\Common Files\Real\Common\rpmn3260.dll
+0x60000000    0x22000        0x1 C:\Program Files\Real\RealPlayer\rpprespn.dll
+0x603a0000     0xb000        0x1 C:\Program Files\Real\RealPlayer\rpsd3260.dll
+0x64600000    0x1b000        0x1 C:\Program Files\Real\RealPlayer\rpsr3260.dll
+0x60350000     0xf000        0x1 C:\Program Files\Common Files\Real\Common\rpta3260.dll
+0x602f0000     0xe000        0x1 C:\Program Files\Real\RealPlayer\rpto3260.dll
+0x00190000     0xf000        0x1 C:\Program Files\Real\RealPlayer\rpar3260.dll
+0x60250000    0x30000        0x1 C:\Program Files\Real\RealPlayer\rpde3260.dll
+0x60450000    0x24000        0x1 C:\Program Files\Common Files\Real\Update\rpup3260.dll
+0x604f0000    0x17000        0x1 C:\Program Files\Common Files\Real\Update\upgr3260.dll
+0x60550000    0x2d000        0x1 C:\Program Files\Common Files\Real\Update\setu3260.dll
+0x60750000     0x6000        0x1 C:\Program Files\Real\RealPlayer\pnmi3260.dll
+************************************************************************
+qttask.exe pid:   1880
+Command line : "C:\Program Files\QuickTime\qttask.exe" -atboottime
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000    0x28000     0xffff C:\Program Files\QuickTime\qttask.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77c00000     0x8000     0xffff C:\WINDOWS\system32\VERSION.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x7c9c0000   0x817000     0xffff C:\WINDOWS\system32\SHELL32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x773d0000   0x103000        0x5 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x5b860000    0x55000        0x1 C:\WINDOWS\system32\NETAPI32.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x5ad70000    0x38000        0x2 C:\WINDOWS\system32\uxtheme.dll
+0x74720000    0x4c000        0x1 C:\WINDOWS\system32\MSCTF.dll
+************************************************************************
+ctfmon.exe pid:   1952
+Command line : "C:\WINDOWS\system32\ctfmon.exe" 
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000     0x6000     0xffff C:\WINDOWS\system32\ctfmon.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x74720000    0x4c000     0xffff C:\WINDOWS\system32\MSCTF.dll
+0x5fc10000    0x33000     0xffff C:\WINDOWS\system32\MSUTB.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x76b40000    0x2d000        0x2 C:\WINDOWS\system32\WINMM.dll
+0x774e0000   0x13d000        0x3 C:\WINDOWS\system32\ole32.dll
+0x77120000    0x8b000        0x1 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0x1 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x1 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x5 C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0x1 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x4 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x2 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x5b860000    0x55000        0x1 C:\WINDOWS\system32\NETAPI32.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+************************************************************************
+msmsgs.exe pid:   1968
+Command line : "C:\Program Files\Messenger\msmsgs.exe" /background
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000   0x1a3000     0xffff C:\Program Files\Messenger\msmsgs.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x71ad0000     0x9000     0xffff C:\WINDOWS\system32\WSOCK32.dll
+0x71ab0000    0x17000     0xffff C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000     0xffff C:\WINDOWS\system32\WS2HELP.dll
+0x774e0000   0x13d000     0xffff C:\WINDOWS\system32\ole32.dll
+0x77120000    0x8b000     0xffff C:\WINDOWS\system32\OLEAUT32.dll
+0x773d0000   0x103000     0xffff C:\WINDOWS\WinSxS\X86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\COMCTL32.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x763b0000    0x49000     0xffff C:\WINDOWS\system32\comdlg32.dll
+0x7c9c0000   0x817000     0xffff C:\WINDOWS\system32\SHELL32.dll
+0x77c00000     0x8000     0xffff C:\WINDOWS\system32\VERSION.dll
+0x76b40000    0x2d000     0xffff C:\WINDOWS\system32\WINMM.dll
+0x4ec50000   0x1a6000     0xffff C:\WINDOWS\WinSxS\x86_Microsoft.Windows.GdiPlus_6595b64144ccf1df_1.0.2600.5512_x-ww_dfb54e0c\gdiplus.dll
+0x76380000     0x5000     0xffff C:\WINDOWS\system32\MSIMG32.dll
+0x5b860000    0x55000     0xffff C:\WINDOWS\system32\NETAPI32.dll
+0x771b0000    0xaa000     0xffff C:\WINDOWS\system32\WININET.dll
+0x77a80000    0x95000     0xffff C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000     0xffff C:\WINDOWS\system32\MSASN1.dll
+0x76790000     0xc000     0xffff C:\WINDOWS\system32\cryptdll.dll
+0x76d60000    0x19000     0xffff C:\WINDOWS\system32\iphlpapi.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x5ad70000    0x38000        0x2 C:\WINDOWS\system32\uxtheme.dll
+0x00c70000    0x6c000        0x1 C:\WINDOWS\system32\XPOB2RES.DLL
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x3 C:\WINDOWS\system32\COMRes.dll
+0x00ce0000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x74720000    0x4c000        0x1 C:\WINDOWS\system32\MSCTF.dll
+0x7e720000    0xb0000        0x1 C:\WINDOWS\system32\SXS.DLL
+0x77710000    0x42000        0x1 C:\WINDOWS\system32\es.dll
+0x76f50000     0x8000        0x3 C:\WINDOWS\system32\wtsapi32.dll
+0x76360000    0x10000        0x3 C:\WINDOWS\system32\WINSTA.dll
+0x76c00000    0x2e000        0x2 C:\WINDOWS\system32\credui.dll
+************************************************************************
+jqs.exe pid:    188
+Command line : "C:\Program Files\Java\jre6\bin\jqs.exe" -service -config "C:\Program Files\Java\jre6\lib\deploy\jqs\jqs.conf"
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000    0x24000     0xffff C:\Program Files\Java\jre6\bin\jqs.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x71ab0000    0x17000     0xffff C:\WINDOWS\system32\WS2_32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x71aa0000     0x8000     0xffff C:\WINDOWS\system32\WS2HELP.dll
+0x774e0000   0x13d000     0xffff C:\WINDOWS\system32\ole32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x7c340000    0x56000     0xffff C:\Program Files\Java\jre6\bin\MSVCR71.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\psapi.dll
+0x74000000    0x56000        0x1 C:\WINDOWS\system32\pdh.dll
+0x763b0000    0x49000        0x2 C:\WINDOWS\system32\comdlg32.dll
+0x5d090000    0x9a000        0x3 C:\WINDOWS\system32\COMCTL32.dll
+0x7c9c0000   0x817000        0x2 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x4 C:\WINDOWS\system32\SHLWAPI.dll
+0x77a80000    0x95000        0x1 C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000        0x1 C:\WINDOWS\system32\MSASN1.dll
+0x74320000    0x3d000        0x2 C:\WINDOWS\system32\ODBC32.dll
+0x711a0000     0x6000        0x1 C:\WINDOWS\system32\odbcbcp.dll
+0x77c00000     0x8000        0x1 C:\WINDOWS\system32\VERSION.dll
+0x77120000    0x8b000        0x1 C:\WINDOWS\system32\OLEAUT32.dll
+0x773d0000   0x103000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x006a0000    0x17000        0x1 C:\WINDOWS\system32\odbcint.dll
+0x71a50000    0x3f000        0x2 C:\WINDOWS\system32\mswsock.dll
+0x662b0000    0x58000        0x1 C:\WINDOWS\system32\hnetcfg.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+0x5e760000     0xa000        0x1 C:\WINDOWS\system32\perfos.dll
+0x5e790000     0x9000        0x1 C:\WINDOWS\system32\perfdisk.dll
+************************************************************************
+bittorrent.exe pid:    296
+Command line : "C:\Program Files\BitTorrent\bittorrent.exe" 
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000    0x29000     0xffff C:\Program Files\BitTorrent\bittorrent.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x7c340000    0x56000     0xffff C:\Program Files\BitTorrent\MSVCR71.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x77dd0000    0x9b000      0x1c3 C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000       0xb6 C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000       0x55 C:\WINDOWS\system32\Secur32.dll
+0x77c10000    0x58000      0x121 C:\WINDOWS\system32\msvcrt.dll
+0x5b860000    0x55000        0x3 C:\WINDOWS\system32\NETAPI32.dll
+0x77f60000    0x76000       0x26 C:\WINDOWS\system32\SHLWAPI.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x1e000000   0x1ca000       0x20 C:\Program Files\BitTorrent\PYTHON24.DLL
+0x7c9c0000   0x817000       0x2d C:\WINDOWS\system32\SHELL32.dll
+0x773d0000   0x103000        0x4 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x6 C:\WINDOWS\system32\comctl32.dll
+0x1e860000    0x12000        0x1 C:\Program Files\BitTorrent\win32api.pyd
+0x77c00000     0x8000        0x4 C:\WINDOWS\system32\VERSION.dll
+0x1e740000    0x19000        0xb C:\Program Files\BitTorrent\pywintypes24.dll
+0x774e0000   0x13d000       0x34 C:\WINDOWS\system32\ole32.dll
+0x77120000    0x8b000       0x1c C:\WINDOWS\system32\OLEAUT32.dll
+0x1e200000    0x54000        0x2 C:\Program Files\BitTorrent\pythoncom24.dll
+0x5ad70000    0x38000        0x3 C:\WINDOWS\system32\uxtheme.dll
+0x74720000    0x4c000        0x2 C:\WINDOWS\system32\MSCTF.dll
+0x1e7a0000    0x21000        0x1 C:\Program Files\BitTorrent\shell.pyd
+0x00160000    0x13000        0x1 C:\Program Files\BitTorrent\_ctypes.pyd
+0x68000000    0x36000        0x1 C:\WINDOWS\system32\rsaenh.dll
+0x1e1d0000     0xc000        0x1 C:\Program Files\BitTorrent\_socket.pyd
+0x71ab0000    0x17000       0x28 C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000       0x29 C:\WINDOWS\system32\WS2HELP.dll
+0x013d0000    0x78000        0x1 C:\Program Files\BitTorrent\_ssl.pyd
+0x71ad0000     0x9000        0xb C:\WINDOWS\system32\WSOCK32.dll
+0x00180000     0x8000        0x1 C:\Program Files\BitTorrent\_zope_interface_coptimizations.pyd
+0x010b0000     0x9000        0x1 C:\Program Files\BitTorrent\_iocp.pyd
+0x71a50000    0x3f000        0x3 C:\WINDOWS\system32\mswsock.dll
+0x662b0000    0x58000        0x2 C:\WINDOWS\system32\hnetcfg.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+0x01850000    0x11000        0x1 C:\Program Files\BitTorrent\zlib.pyd
+0x1e920000     0x8000        0x1 C:\Program Files\BitTorrent\win32event.pyd
+0x1e280000    0xa2000        0x3 C:\Program Files\BitTorrent\win32ui.pyd
+0x7c140000   0x103000        0x4 C:\Program Files\BitTorrent\MFC71.DLL
+0x73000000    0x26000        0x5 C:\WINDOWS\system32\WINSPOOL.DRV
+0x1ec00000     0xf000        0x1 C:\Program Files\BitTorrent\dde.pyd
+0x01920000    0x1a000        0x1 C:\Program Files\BitTorrent\gobject.pyd
+0x01940000    0x96000       0x29 C:\Program Files\BitTorrent\libglib-2.0-0.dll
+0x019e0000    0xda000       0x10 C:\Program Files\BitTorrent\iconv.dll
+0x01ac0000     0xb000       0x15 C:\Program Files\BitTorrent\intl.dll
+0x01ad0000    0x3c000       0x1a C:\Program Files\BitTorrent\libgobject-2.0-0.dll
+0x01b10000     0xe000        0x1 C:\Program Files\BitTorrent\libgthread-2.0-0.dll
+0x01b20000   0x150000        0x1 C:\Program Files\BitTorrent\_gtk.pyd
+0x01c70000    0x93000        0x4 C:\Program Files\BitTorrent\libgdk-win32-2.0-0.dll
+0x01d10000    0x3d000        0xb C:\Program Files\BitTorrent\libpango-1.0-0.dll
+0x01d50000     0xd000        0xb C:\Program Files\BitTorrent\libgmodule-2.0-0.dll
+0x01d60000    0x13000        0x3 C:\Program Files\BitTorrent\libpangowin32-1.0-0.dll
+0x01d80000    0x1c000        0x8 C:\Program Files\BitTorrent\libgdk_pixbuf-2.0-0.dll
+0x76390000    0x1d000        0x3 C:\WINDOWS\system32\IMM32.DLL
+0x01da0000   0x310000        0x2 C:\Program Files\BitTorrent\libgtk-win32-2.0-0.dll
+0x020b0000    0x23000        0x3 C:\Program Files\BitTorrent\libatk-1.0-0.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x746f0000    0x2a000        0x1 C:\WINDOWS\system32\msimtf.dll
+0x021f0000    0x13000        0x1 C:\Program Files\BitTorrent\pango.pyd
+0x02210000     0xb000        0x1 C:\Program Files\BitTorrent\atk.pyd
+0x02bb0000    0x13000        0x1 C:\Program Files\BitTorrent\lib\gtk-2.0\2.4.0\engines\libwimp.dll
+0x02bd0000     0xc000        0x1 C:\Program Files\BitTorrent\lib\gtk-2.0\2.4.0\loaders\libpixbufloader-png.dll
+0x65780000    0x36000        0x1 C:\Program Files\BitTorrent\libpng12.dll
+0x61b80000    0x16000        0x1 C:\Program Files\BitTorrent\zlib1.dll
+0x1e9b0000    0x1a000        0x1 C:\Program Files\BitTorrent\win32gui.pyd
+0x763b0000    0x49000        0x1 C:\WINDOWS\system32\comdlg32.dll
+0x1ecb0000    0x1e000        0x1 C:\Program Files\BitTorrent\winxpgui.pyd
+0x02bf0000     0xd000        0x1 C:\Program Files\BitTorrent\lib\gtk-2.0\2.4.0\loaders\libpixbufloader-ico.dll
+0x02c00000     0xb000        0x1 C:\Program Files\BitTorrent\lib\pango\1.4.0\modules\pango-basic-win32.dll
+0x73b30000    0x15000        0x2 C:\WINDOWS\system32\mscms.dll
+0x66e90000    0x41000        0x1 C:\WINDOWS\system32\icm32.dll
+0x7e720000    0xb0000        0x1 C:\WINDOWS\system32\SXS.DLL
+0x76f20000    0x27000        0x1 C:\WINDOWS\system32\DNSAPI.dll
+0x02fe0000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x76400000   0x1a5000        0x2 C:\WINDOWS\System32\netshell.dll
+0x76b20000    0x11000        0x2 C:\WINDOWS\System32\ATL.DLL
+0x76c00000    0x2e000        0x2 C:\WINDOWS\System32\credui.dll
+0x478c0000     0xa000        0x4 C:\WINDOWS\System32\dot3api.dll
+0x76e80000     0xe000        0x8 C:\WINDOWS\System32\rtutils.dll
+0x736d0000     0x6000        0x2 C:\WINDOWS\System32\dot3dlg.dll
+0x5dca0000    0x28000        0x2 C:\WINDOWS\System32\OneX.DLL
+0x76f50000     0x8000        0x2 C:\WINDOWS\System32\WTSAPI32.dll
+0x76360000    0x10000        0x2 C:\WINDOWS\System32\WINSTA.dll
+0x77a80000    0x95000        0x2 C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000        0x2 C:\WINDOWS\system32\MSASN1.dll
+0x745b0000    0x22000        0x2 C:\WINDOWS\System32\eappcfg.dll
+0x76080000    0x65000        0x4 C:\WINDOWS\System32\MSVCP60.dll
+0x5dcd0000     0xe000        0x2 C:\WINDOWS\System32\eappprxy.dll
+0x76d60000    0x19000        0x2 C:\WINDOWS\System32\iphlpapi.dll
+0x76fc0000     0x6000        0x1 C:\WINDOWS\system32\rasadhlp.dll
+************************************************************************
+LimeWire.exe pid:    312
+Command line : "C:\Program Files\LimeWire\LimeWire.exe" -startup
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000    0x26000     0xffff C:\Program Files\LimeWire\LimeWire.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x7c9c0000   0x817000     0xffff C:\WINDOWS\system32\SHELL32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x773d0000   0x103000        0x7 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x7 C:\WINDOWS\system32\comctl32.dll
+0x10000000     0xe000        0x2 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x5b860000    0x55000        0x7 C:\WINDOWS\system32\NETAPI32.dll
+0x76bf0000     0xb000        0x3 C:\WINDOWS\system32\PSAPI.DLL
+0x6d800000   0x256000       0x25 C:\Program Files\Java\jre6\bin\client\jvm.dll
+0x76b40000    0x2d000       0x25 C:\WINDOWS\system32\WINMM.dll
+0x7c340000    0x56000       0x95 C:\Program Files\Java\jre6\bin\MSVCR71.dll
+0x6d280000     0x8000        0x1 C:\Program Files\Java\jre6\bin\hpi.dll
+0x6d7b0000     0xc000        0xd C:\Program Files\Java\jre6\bin\verify.dll
+0x6d320000    0x1f000        0xe C:\Program Files\Java\jre6\bin\java.dll
+0x6d7f0000     0xf000        0x2 C:\Program Files\Java\jre6\bin\zip.dll
+0x6d000000   0x138000        0x6 C:\Program Files\Java\jre6\bin\awt.dll
+0x73000000    0x26000        0xa C:\WINDOWS\system32\WINSPOOL.DRV
+0x76390000    0x1d000        0xa C:\WINDOWS\system32\IMM32.dll
+0x774e0000   0x13d000       0x20 C:\WINDOWS\system32\ole32.dll
+0x5ad70000    0x38000        0x5 C:\WINDOWS\system32\uxtheme.dll
+0x74720000    0x4c000        0x1 C:\WINDOWS\system32\MSCTF.dll
+0x03d40000    0x17000        0x1 C:\Program Files\LimeWire\lib\SystemUtilities.dll
+0x77120000    0x8b000        0xe C:\WINDOWS\system32\OLEAUT32.dll
+0x68000000    0x36000        0x1 C:\WINDOWS\system32\rsaenh.dll
+0x769c0000    0xb4000        0x1 C:\WINDOWS\system32\USERENV.dll
+0x6d610000    0x13000        0x2 C:\Program Files\Java\jre6\bin\net.dll
+0x71ab0000    0x17000       0x3f C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000       0x42 C:\WINDOWS\system32\WS2HELP.dll
+0x71a50000    0x3f000        0x5 C:\WINDOWS\System32\mswsock.dll
+0x76f20000    0x27000        0x2 C:\WINDOWS\system32\DNSAPI.dll
+0x76fb0000     0x8000        0x1 C:\WINDOWS\System32\winrnr.dll
+0x76f60000    0x2c000        0x3 C:\WINDOWS\system32\WLDAP32.dll
+0x76fc0000     0x6000        0x1 C:\WINDOWS\system32\rasadhlp.dll
+0x6d220000    0x54000        0x1 C:\Program Files\Java\jre6\bin\fontmanager.dll
+0x662b0000    0x58000        0x2 C:\WINDOWS\system32\hnetcfg.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+0x6d630000     0x9000        0x1 C:\Program Files\Java\jre6\bin\nio.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x77c00000     0x8000        0x8 C:\WINDOWS\system32\VERSION.dll
+0x05300000     0x6000        0x1 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\javaxpcomglue.dll
+0x05310000    0x28000       0x40 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nspr4.dll
+0x71ad0000     0x9000       0x13 C:\WINDOWS\system32\WSOCK32.dll
+0x05340000     0x7000       0x22 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\plc4.dll
+0x05350000     0x6000       0x19 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\plds4.dll
+0x05360000    0x64000        0x6 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\sqlite3.dll
+0x053d0000    0x12000       0x16 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nssutil3.dll
+0x053f0000    0x23000        0x2 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\softokn3.dll
+0x05420000    0xa9000        0xc C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nss3.dll
+0x054d0000    0x1f000        0x4 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\ssl3.dll
+0x054f0000    0x18000        0x4 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\smime3.dll
+0x05510000    0x95000        0x4 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\js3250.dll
+0x055b0000   0x827000        0x3 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\xul.dll
+0x763b0000    0x49000        0x3 C:\WINDOWS\system32\comdlg32.dll
+0x76380000     0x5000        0x3 C:\WINDOWS\system32\MSIMG32.dll
+0x74d90000    0x6b000        0x3 C:\WINDOWS\system32\USP10.dll
+0x7c3a0000    0x7b000        0x3 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\MSVCP71.dll
+0x05df0000     0x6000        0x1 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\xpcom.dll
+0x76d60000    0x19000        0x3 C:\WINDOWS\system32\iphlpapi.dll
+0x77920000    0xf3000        0x2 C:\WINDOWS\system32\SETUPAPI.dll
+0x7e290000   0x171000        0x1 C:\WINDOWS\system32\shdocvw.dll
+0x77a80000    0x95000        0x5 C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000        0x3 C:\WINDOWS\system32\MSASN1.dll
+0x754d0000    0x80000        0x1 C:\WINDOWS\system32\CRYPTUI.dll
+0x771b0000    0xaa000        0x1 C:\WINDOWS\system32\WININET.dll
+0x76c30000    0x2e000        0x1 C:\WINDOWS\system32\WINTRUST.dll
+0x76c90000    0x28000        0x1 C:\WINDOWS\system32\IMAGEHLP.dll
+0x6d350000     0x6000        0x4 C:\Program Files\Java\jre6\bin\jawt.dll
+0x77b40000    0x22000        0x2 C:\WINDOWS\system32\appHelp.dll
+0x77a20000    0x54000        0x1 C:\WINDOWS\System32\cscui.dll
+0x76600000    0x1d000        0x1 C:\WINDOWS\System32\CSCDLL.dll
+0x04cb0000    0x1e000        0x1 C:\Program Files\LimeWire\lib\jdic.dll
+0x7e1e0000    0xa2000        0x1 C:\WINDOWS\system32\urlmon.dll
+0x07590000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x061f0000    0x18000        0x1 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nssdbm3.dll
+0x32520000    0x12000        0x1 C:\Program Files\Microsoft Office\Office10\msohev.dll
+0x066a0000    0x38000        0x1 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\freebl3.dll
+0x049f0000    0x47000        0x1 C:\Documents and Settings\Peter Haag\Application Data\LimeWire\browser\xulrunner\nssckbi.dll
+0x6d560000     0x9000        0x1 C:\Program Files\Java\jre6\bin\management.dll
+0x6d790000     0x8000        0x1 C:\Program Files\Java\jre6\bin\sunmscapi.dll
+0x76d40000    0x18000        0x1 C:\WINDOWS\system32\MPRAPI.dll
+0x77cc0000    0x32000        0x1 C:\WINDOWS\system32\ACTIVEDS.dll
+0x76e10000    0x25000        0x1 C:\WINDOWS\system32\adsldpc.dll
+0x76b20000    0x11000        0x1 C:\WINDOWS\system32\ATL.DLL
+0x76e80000     0xe000        0x1 C:\WINDOWS\system32\rtutils.dll
+0x71bf0000    0x13000        0x1 C:\WINDOWS\system32\SAMLIB.dll
+0x6d190000    0x23000        0x1 C:\Program Files\Java\jre6\bin\dcpr.dll
+************************************************************************
+wscntfy.exe pid:   1620
+Command line : C:\WINDOWS\system32\wscntfy.exe
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000     0x6000     0xffff C:\WINDOWS\system32\wscntfy.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x7c9c0000   0x817000     0xffff C:\WINDOWS\system32\SHELL32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x773d0000   0x103000        0x2 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x007c0000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x5ad70000    0x38000        0x2 C:\WINDOWS\system32\uxtheme.dll
+0x74720000    0x4c000        0x1 C:\WINDOWS\system32\MSCTF.dll
+************************************************************************
+alg.exe pid:   2104
+Command line : C:\WINDOWS\System32\alg.exe
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x01000000     0xd000     0xffff C:\WINDOWS\System32\alg.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x76b20000    0x11000     0xffff C:\WINDOWS\System32\ATL.DLL
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x774e0000   0x13d000     0xffff C:\WINDOWS\system32\ole32.dll
+0x77120000    0x8b000     0xffff C:\WINDOWS\system32\OLEAUT32.dll
+0x71ad0000     0x9000     0xffff C:\WINDOWS\System32\WSOCK32.dll
+0x71ab0000    0x17000     0xffff C:\WINDOWS\System32\WS2_32.dll
+0x71aa0000     0x8000     0xffff C:\WINDOWS\System32\WS2HELP.dll
+0x71a50000    0x3f000     0xffff C:\WINDOWS\System32\MSWSOCK.DLL
+0x5cb70000    0x26000        0x1 C:\WINDOWS\System32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x76b40000    0x2d000        0x2 C:\WINDOWS\System32\WINMM.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\System32\MSACM32.dll
+0x77c00000     0x8000        0x3 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x1 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x3 C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0x1 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x1 C:\WINDOWS\System32\UxTheme.dll
+0x773d0000   0x103000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\System32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\System32\COMRes.dll
+0x00680000   0x2c5000        0x1 C:\WINDOWS\System32\xpsp2res.dll
+0x662b0000    0x58000        0x2 C:\WINDOWS\system32\hnetcfg.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+************************************************************************
+wuauclt.exe pid:   2952
+Command line : "C:\WINDOWS\system32\wuauclt.exe"
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000     0xe000     0xffff C:\WINDOWS\system32\wuauclt.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x774e0000   0x13d000     0xffff C:\WINDOWS\system32\ole32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77120000    0x8b000     0xffff C:\WINDOWS\system32\OLEAUT32.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x76b40000    0x2d000        0x2 C:\WINDOWS\system32\WINMM.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0x3 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x3 C:\WINDOWS\system32\SHELL32.dll
+0x769c0000    0xb4000        0x1 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x3 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x4 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x507e0000    0x52000        0x2 C:\WINDOWS\system32\wucltui.dll
+0x76380000     0x5000        0x2 C:\WINDOWS\system32\MSIMG32.dll
+0x75150000    0x13000        0x2 C:\WINDOWS\system32\Cabinet.dll
+0x77a80000    0x95000        0x4 C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000        0x4 C:\WINDOWS\system32\MSASN1.dll
+0x76c30000    0x2e000        0x2 C:\WINDOWS\system32\WINTRUST.dll
+0x76c90000    0x28000        0x2 C:\WINDOWS\system32\IMAGEHLP.dll
+0x74720000    0x4c000        0x1 C:\WINDOWS\system32\MSCTF.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x00a70000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x50f00000     0xd000        0x1 C:\WINDOWS\system32\wups2.dll
+************************************************************************
+cmd.exe pid:   3936
+Command line : "C:\WINDOWS\system32\cmd.exe" 
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x4ad00000    0x61000     0xffff C:\WINDOWS\system32\cmd.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x5cb70000    0x26000        0x1 C:\WINDOWS\system32\ShimEng.dll
+0x6f880000   0x1ca000        0x1 C:\WINDOWS\AppPatch\AcGenral.DLL
+0x77dd0000    0x9b000       0x28 C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000       0x12 C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000        0xa C:\WINDOWS\system32\Secur32.dll
+0x76b40000    0x2d000        0x2 C:\WINDOWS\system32\WINMM.dll
+0x774e0000   0x13d000        0x2 C:\WINDOWS\system32\ole32.dll
+0x77120000    0x8b000        0x1 C:\WINDOWS\system32\OLEAUT32.dll
+0x77be0000    0x15000        0x1 C:\WINDOWS\system32\MSACM32.dll
+0x77c00000     0x8000        0x1 C:\WINDOWS\system32\VERSION.dll
+0x7c9c0000   0x817000        0x1 C:\WINDOWS\system32\SHELL32.dll
+0x77f60000    0x76000        0x5 C:\WINDOWS\system32\SHLWAPI.dll
+0x769c0000    0xb4000        0x1 C:\WINDOWS\system32\USERENV.dll
+0x5ad70000    0x38000        0x1 C:\WINDOWS\system32\UxTheme.dll
+0x773d0000   0x103000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x1 C:\WINDOWS\system32\comctl32.dll
+0x10000000     0xe000        0x2 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x5b860000    0x55000        0x1 C:\WINDOWS\system32\NETAPI32.dll
+0x76bf0000     0xb000        0x2 C:\WINDOWS\system32\PSAPI.DLL
+************************************************************************
+AcroRd32.exe pid:   2912
+Command line : "C:\Program Files\Adobe\Reader 8.0\Reader\AcroRd32.exe"  "C:\Documents and Settings\Peter Haag\My Documents\Merkblatt_ameisen.pdf"
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000    0x52000     0xffff C:\Program Files\Adobe\Reader 8.0\Reader\AcroRd32.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x7c9c0000   0x817000     0xffff C:\WINDOWS\system32\SHELL32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x7c420000    0x87000     0xffff C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb\MSVCP80.dll
+0x78130000    0x9b000     0xffff C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb\MSVCR80.dll
+0x773d0000   0x103000        0x4 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x00940000   0xd98000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\AcroRd32.dll
+0x77c00000     0x8000       0x17 C:\WINDOWS\system32\VERSION.dll
+0x06000000   0x4b6000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\AGM.dll
+0x774e0000   0x13d000       0x1d C:\WINDOWS\system32\ole32.dll
+0x77120000    0x8b000        0xd C:\WINDOWS\system32\OLEAUT32.dll
+0x08000000   0x23a000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\CoolType.dll
+0x76b40000    0x2d000        0x1 C:\WINDOWS\system32\WINMM.dll
+0x07000000    0x1a000        0x4 C:\Program Files\Adobe\Reader 8.0\Reader\BIB.dll
+0x05000000    0xaa000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\ACE.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x5b860000    0x55000        0x2 C:\WINDOWS\system32\NETAPI32.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x5ad70000    0x38000        0x3 C:\WINDOWS\system32\uxtheme.dll
+0x74720000    0x4c000        0x1 C:\WINDOWS\system32\MSCTF.dll
+0x77920000    0xf3000        0x1 C:\WINDOWS\system32\SETUPAPI.dll
+0x02250000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x29800000    0x5b000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Accessibility.api
+0x20800000   0x94f000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\AcroForm.api
+0x74d90000    0x6b000        0x1 C:\WINDOWS\system32\USP10.dll
+0x22100000   0x3f9000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Annots.api
+0x45800000    0xd0000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Checkers.api
+0x23000000   0x11d000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\DigSig.api
+0x40800000    0x22000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\DVA.api
+0x26800000    0x10000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\eBook.api
+0x23800000   0x15f000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\EScript.api
+0x24000000    0x24000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\EWH32.api
+0x31800000    0x11000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\HLS.api
+0x25800000    0x18000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\IA32.api
+0x46800000    0x74000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\ImageViewer.API
+0x29000000   0x22b000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\MakeAccessible.api
+0x2d800000   0x14f000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Multimedia.api
+0x2b800000    0x66000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\PDDom.api
+0x28000000   0x588000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\PPKLite.api
+0x29a00000    0x1e000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\ReadOutLoud.api
+0x28800000    0x5e000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\reflow.api
+0x32000000    0x4e000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\SaveAsRTF.api
+0x2a300000    0x5b000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Search.api
+0x2a000000    0x19000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Search5.api
+0x2a800000    0x22000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\SendMail.api
+0x2b000000    0x46000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Spelling.api
+0x30800000    0x2e000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\Updater.api
+0x769c0000    0xb4000        0x1 C:\WINDOWS\system32\USERENV.dll
+0x2e000000    0x30000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\plug_ins\weblink.api
+0x771b0000    0xaa000        0x1 C:\WINDOWS\system32\WININET.dll
+0x77a80000    0x95000        0x1 C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000        0x1 C:\WINDOWS\system32\MSASN1.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x76f50000     0x8000        0x1 C:\WINDOWS\system32\Wtsapi32.dll
+0x76360000    0x10000        0x1 C:\WINDOWS\system32\WINSTA.dll
+0x03550000    0x94000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\cryptocme2.dll
+0x035f0000    0x75000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\ccme_base.dll
+0x03670000    0x73000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\AdobeLinguistic.dll
+0x03700000    0x7f000        0x1 C:\Program Files\Adobe\Reader 8.0\Reader\AdobeUpdater.dll
+0x73b30000    0x15000        0x1 C:\WINDOWS\system32\mscms.dll
+0x73000000    0x26000        0x1 C:\WINDOWS\system32\WINSPOOL.DRV
+0x77690000    0x21000        0x1 C:\WINDOWS\system32\NTMARTA.DLL
+0x71bf0000    0x13000        0x1 C:\WINDOWS\system32\SAMLIB.dll
+0x76f60000    0x2c000        0x1 C:\WINDOWS\system32\WLDAP32.dll
+************************************************************************
+WINWORD.EXE pid:   3028
+Command line : "C:\Program Files\Microsoft Office\Office10\WINWORD.EXE"  /n /dde
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x30000000   0xa3f000     0xffff C:\Program Files\Microsoft Office\Office10\WINWORD.EXE
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.DLL
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.DLL
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x774e0000   0x13d000     0xffff C:\WINDOWS\system32\OLE32.DLL
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x5b860000    0x55000        0x4 C:\WINDOWS\system32\NETAPI32.dll
+0x77f60000    0x76000        0xc C:\WINDOWS\system32\SHLWAPI.dll
+0x76bf0000     0xb000        0x1 C:\WINDOWS\system32\PSAPI.DLL
+0x30b00000   0x987000        0x2 C:\Program Files\Common Files\Microsoft Shared\office10\mso.dll
+0x5ad70000    0x38000        0x2 C:\WINDOWS\system32\uxtheme.dll
+0x74720000    0x4c000        0x2 C:\WINDOWS\system32\MSCTF.dll
+0x7c9c0000   0x817000        0x7 C:\WINDOWS\system32\SHELL32.dll
+0x773d0000   0x103000        0x2 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x5d090000    0x9a000        0x4 C:\WINDOWS\system32\comctl32.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x77120000    0x8b000        0x8 C:\WINDOWS\system32\OLEAUT32.dll
+0x77c00000     0x8000        0x2 C:\WINDOWS\system32\VERSION.dll
+0x7d1e0000   0x2bc000        0x2 C:\WINDOWS\system32\msi.dll
+0x01430000   0x2c5000        0x1 C:\WINDOWS\system32\xpsp2res.dll
+0x48000000    0x7f000        0x3 C:\Program Files\Common Files\Microsoft Shared\office10\riched20.dll
+0x7e720000    0xb0000        0x1 C:\WINDOWS\system32\SXS.DLL
+0x76f50000     0x8000        0x1 C:\WINDOWS\system32\wtsapi32.dll
+0x76360000    0x10000        0x1 C:\WINDOWS\system32\WINSTA.dll
+0x77920000    0xf3000        0x1 C:\WINDOWS\system32\SETUPAPI.dll
+0x76980000     0x8000        0x1 C:\WINDOWS\system32\LINKINFO.dll
+0x76990000    0x25000        0x1 C:\WINDOWS\system32\ntshrui.dll
+0x76b20000    0x11000        0x1 C:\WINDOWS\system32\ATL.DLL
+0x769c0000    0xb4000        0x2 C:\WINDOWS\system32\USERENV.dll
+0x3c640000    0x26000        0x1 C:\PROGRA~1\COMMON~1\MICROS~1\SMARTT~1\FNAME.DLL
+0x73000000    0x26000        0x3 C:\WINDOWS\system32\WINSPOOL.DRV
+0x3c740000    0x3c000        0x1 C:\PROGRA~1\COMMON~1\MICROS~1\SMARTT~1\MOFL.DLL
+0x763b0000    0x49000        0x1 C:\WINDOWS\system32\COMDLG32.DLL
+0x74980000   0x113000        0x1 C:\WINDOWS\system32\msxml3.dll
+0x507c0000    0x84000        0x1 C:\Program Files\Common Files\Microsoft Shared\Proof\mslid.dll
+************************************************************************
+iexplore.exe pid:   2836
+Command line : "C:\Program Files\Internet Explorer\iexplore.exe" 
+Service Pack 3
+
+Base             Size  LoadCount Path
+---------- ---------- ---------- ----
+0x00400000    0x19000     0xffff C:\Program Files\Internet Explorer\iexplore.exe
+0x7c900000    0xaf000     0xffff C:\WINDOWS\system32\ntdll.dll
+0x7c800000    0xf6000     0xffff C:\WINDOWS\system32\kernel32.dll
+0x77c10000    0x58000     0xffff C:\WINDOWS\system32\msvcrt.dll
+0x7e410000    0x91000     0xffff C:\WINDOWS\system32\USER32.dll
+0x77f10000    0x49000     0xffff C:\WINDOWS\system32\GDI32.dll
+0x77f60000    0x76000     0xffff C:\WINDOWS\system32\SHLWAPI.dll
+0x77dd0000    0x9b000     0xffff C:\WINDOWS\system32\ADVAPI32.dll
+0x77e70000    0x92000     0xffff C:\WINDOWS\system32\RPCRT4.dll
+0x77fe0000    0x11000     0xffff C:\WINDOWS\system32\Secur32.dll
+0x7e290000   0x171000     0xffff C:\WINDOWS\system32\SHDOCVW.dll
+0x77a80000    0x95000     0xffff C:\WINDOWS\system32\CRYPT32.dll
+0x77b20000    0x12000     0xffff C:\WINDOWS\system32\MSASN1.dll
+0x754d0000    0x80000     0xffff C:\WINDOWS\system32\CRYPTUI.dll
+0x5b860000    0x55000     0xffff C:\WINDOWS\system32\NETAPI32.dll
+0x77120000    0x8b000     0xffff C:\WINDOWS\system32\OLEAUT32.dll
+0x774e0000   0x13d000     0xffff C:\WINDOWS\system32\ole32.dll
+0x77c00000     0x8000     0xffff C:\WINDOWS\system32\VERSION.dll
+0x771b0000    0xaa000     0xffff C:\WINDOWS\system32\WININET.dll
+0x76c30000    0x2e000     0xffff C:\WINDOWS\system32\WINTRUST.dll
+0x76c90000    0x28000     0xffff C:\WINDOWS\system32\IMAGEHLP.dll
+0x76f60000    0x2c000     0xffff C:\WINDOWS\system32\WLDAP32.dll
+0x773d0000   0x103000       0x10 C:\WINDOWS\WinSxS\x86_Microsoft.Windows.Common-Controls_6595b64144ccf1df_6.0.2600.5512_x-ww_35d4ce83\comctl32.dll
+0x10000000     0xe000        0x1 C:\WINDOWS\system32\cleaedos.dll
+0x76da0000    0x16000        0x1 C:\WINDOWS\system32\browser.dll
+0x76bf0000     0xb000       0x10 C:\WINDOWS\system32\PSAPI.DLL
+0x7c9c0000   0x817000       0x32 C:\WINDOWS\system32\SHELL32.dll
+0x5d090000    0x9a000        0x5 C:\WINDOWS\system32\comctl32.dll
+0x5ad70000    0x38000        0x6 C:\WINDOWS\system32\uxtheme.dll
+0x74720000    0x4c000        0x2 C:\WINDOWS\system32\MSCTF.dll
+0x75f80000    0xfd000        0x4 C:\WINDOWS\system32\BROWSEUI.dll
+0x71600000    0x12000        0x1 C:\WINDOWS\system32\browselc.dll
+0x77b40000    0x22000        0x1 C:\WINDOWS\system32\appHelp.dll
+0x76fd0000    0x7f000        0x2 C:\WINDOWS\system32\CLBCATQ.DLL
+0x77050000    0xc5000        0x2 C:\WINDOWS\system32\COMRes.dll
+0x77a20000    0x54000        0x1 C:\WINDOWS\System32\cscui.dll
+0x76600000    0x1d000        0x1 C:\WINDOWS\System32\CSCDLL.dll
+0x77920000    0xf3000        0x1 C:\WINDOWS\system32\SETUPAPI.dll
+0x7e1e0000    0xa2000        0xd C:\WINDOWS\system32\urlmon.dll
+0x014b0000    0x10000        0x1 C:\Program Files\Common Files\Adobe\Acrobat\ActiveX\AcroIEHelper.dll
+0x78130000    0x9b000        0x1 C:\WINDOWS\WinSxS\x86_Microsoft.VC80.CRT_1fc8b3b9a1e18e3b_8.0.50727.163_x-ww_681e29fb\MSVCR80.dll
+0x6d740000    0x4d000        0x1 C:\Program Files\Java\jre6\bin\ssv.dll
+0x7c340000    0x56000        0x3 C:\Program Files\Java\jre6\bin\MSVCR71.dll
+0x6d440000     0xb000        0x1 C:\Program Files\Java\jre6\bin\jp2ssv.dll
+0x6dab0000    0x12000        0x1 C:\Program Files\Java\jre6\lib\deploy\jqs\ie\jqs_plugin.dll
+0x71ab0000    0x17000       0x2f C:\WINDOWS\system32\WS2_32.dll
+0x71aa0000     0x8000       0x33 C:\WINDOWS\system32\WS2HELP.dll
+0x71a50000    0x3f000        0x4 C:\WINDOWS\system32\mswsock.dll
+0x662b0000    0x58000        0x1 C:\WINDOWS\system32\hnetcfg.dll
+0x71a90000     0x8000        0x1 C:\WINDOWS\System32\wshtcpip.dll
+0x7dc30000   0x2f2000        0x4 C:\WINDOWS\system32\mshtml.dll
+0x746c0000    0x27000        0x4 C:\WINDOWS\system32\msls31.dll
+0x7e720000    0xb0000        0x1 C:\WINDOWS\system32\SXS.DLL
+0x71800000    0x88000        0x2 C:\WINDOWS\system32\shdoclc.dll
+0x01560000   0x2c5000        0x4 C:\WINDOWS\system32\xpsp2res.dll
+0x75cf0000    0x91000        0x4 C:\WINDOWS\system32\MLANG.dll
+0x746f0000    0x2a000        0x1 C:\WINDOWS\system32\msimtf.dll
+0x76390000    0x1d000        0x2 C:\WINDOWS\system32\IMM32.DLL
+0x32520000    0x12000        0x1 C:\Program Files\Microsoft Office\Office10\msohev.dll
+0x71b20000    0x12000        0x1 C:\WINDOWS\system32\MPR.dll
+0x75f60000     0x7000        0x1 C:\WINDOWS\System32\drprov.dll
+0x71c10000     0xe000        0x1 C:\WINDOWS\System32\ntlanman.dll
+0x71cd0000    0x17000        0x2 C:\WINDOWS\System32\NETUI0.dll
+0x71c90000    0x40000        0x1 C:\WINDOWS\System32\NETUI1.dll
+0x71c80000     0x7000        0x1 C:\WINDOWS\System32\NETRAP.dll
+0x71bf0000    0x13000        0x2 C:\WINDOWS\System32\SAMLIB.dll
+0x75f70000     0xa000        0x1 C:\WINDOWS\System32\davclnt.dll
+0x75970000    0xf8000        0x1 C:\WINDOWS\system32\MSGINA.dll
+0x74320000    0x3d000        0x1 C:\WINDOWS\system32\ODBC32.dll
+0x763b0000    0x49000        0x2 C:\WINDOWS\system32\comdlg32.dll
+0x769c0000    0xb4000       0x18 C:\WINDOWS\system32\USERENV.dll
+0x76360000    0x10000        0x1 C:\WINDOWS\system32\WINSTA.dll
+0x023f0000    0x17000        0x1 C:\WINDOWS\system32\odbcint.dll
+0x71ad0000     0x9000        0x1 C:\WINDOWS\system32\wsock32.dll
+0x76ee0000    0x3c000        0x2 C:\WINDOWS\system32\RASAPI32.DLL
+0x76e90000    0x12000        0x2 C:\WINDOWS\system32\rasman.dll
+0x76eb0000    0x2f000        0x2 C:\WINDOWS\system32\TAPI32.dll
+0x76e80000     0xe000        0x3 C:\WINDOWS\system32\rtutils.dll
+0x76b40000    0x2d000        0xd C:\WINDOWS\system32\WINMM.dll
+0x722b0000     0x5000        0xc C:\WINDOWS\system32\sensapi.dll
+0x76f20000    0x27000        0x1 C:\WINDOWS\system32\DNSAPI.dll
+0x76fc0000     0x6000        0x1 C:\WINDOWS\system32\rasadhlp.dll
+0x75c50000    0x7d000        0x2 C:\WINDOWS\system32\jscript.dll
+0x02fa0000   0x4a4000        0x1 C:\WINDOWS\system32\Macromed\Flash\Flash10e.ocx
+0x73b30000    0x15000        0x1 C:\WINDOWS\system32\mscms.dll
+0x73000000    0x26000        0x2 C:\WINDOWS\system32\WINSPOOL.DRV
+0x72d20000     0x9000        0x4 C:\WINDOWS\system32\wdmaud.drv
+0x72d10000     0x8000        0x2 C:\WINDOWS\system32\msacm32.drv
+0x77be0000    0x15000        0x2 C:\WINDOWS\system32\MSACM32.dll
+0x77bd0000     0x7000        0x1 C:\WINDOWS\system32\midimap.dll
+0x66880000     0xc000        0x3 C:\WINDOWS\system32\ImgUtil.dll
+0x5e310000     0xc000        0x1 C:\WINDOWS\system32\pngfilt.dll
+0x767f0000    0x27000        0x8 C:\WINDOWS\system32\schannel.dll
+0x6d430000     0xa000        0x1 C:\WINDOWS\system32\ddrawex.dll
+0x73760000    0x4b000        0x4 C:\WINDOWS\system32\DDRAW.dll
+0x73bc0000     0x6000        0x4 C:\WINDOWS\system32\DCIMAN32.dll
+0x76200000    0x71000        0x1 C:\WINDOWS\system32\mshtmled.dll
+0x6bdd0000    0x36000        0x2 C:\WINDOWS\system32\dxtrans.dll
+0x76b20000    0x11000        0x3 C:\WINDOWS\system32\ATL.DLL
+0x73300000    0x6a000        0x1 C:\WINDOWS\system32\vbscript.dll
+0x6be10000    0x5a000        0x1 C:\WINDOWS\system32\dxtmsft.dll
+0x66e50000    0x40000        0x1 C:\WINDOWS\system32\iepeers.dll
+0x68000000    0x36000        0x1 C:\WINDOWS\system32\rsaenh.dll
+0x68100000    0x26000        0x1 C:\WINDOWS\system32\dssenh.dll
+0x75e60000    0x13000        0xb C:\WINDOWS\system32\cryptnet.dll
+0x4d4f0000    0x59000        0xb C:\WINDOWS\system32\WINHTTP.dll
+0x7d1e0000   0x2bc000        0x1 C:\WINDOWS\system32\msi.dll
+0x74980000   0x113000        0x1 C:\WINDOWS\system32\msxml3.dll
+0x4cd00000   0x14a000        0x1 C:\WINDOWS\system32\msxml6.dll
+0x74d90000    0x6b000        0x1 C:\WINDOWS\system32\USP10.dll
+************************************************************************
+ipconfig.exe pid:   1784
+Unable to read PEB for task.

